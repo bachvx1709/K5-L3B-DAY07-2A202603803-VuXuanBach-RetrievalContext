@@ -114,7 +114,7 @@
 | **Multi-hop** | 1/4 | **25.0%** | Đạt câu liên kết ma trận Eisenhower & Eat the Frog; trượt 3 câu do bằng chứng nằm ở 2 chương quá xa nhau. |
 | **Text** | 4/4 | **100.0%** | Trả lời chính xác 100% câu hỏi lý thuyết, câu nói của Mark Twain, quy tắc nghỉ Pomodoro. |
 | **Thiếu bằng chứng (Abstention)** | 6/6 | **100.0%** | Từ chối tuyệt đối 100% các câu hỏi nằm ngoài tài liệu (lãi suất nợ, công thức NPV, thí nghiệm hóa học). |
-| **Toàn bộ Benchmark Test** | **27/30** | **90.0%** | **ĐẠT CHUẨN BONUS ($\ge$ 90.0% theo quy định tại ADVANCED.md)** |
+| **Toàn bộ Benchmark Test** | **27/30** | **90.0%** | |
 
 - **Trace, nhãn và evidence từng câu; thời gian, lỗi hệ thống:**
   - File kết quả chi tiết: `results/advanced_test_results.json` (kèm kết quả Dev tại `results/advanced_dev_results.json`).
