@@ -1,0 +1,227 @@
+{
+  "method": "dense",
+  "split": "test",
+  "total_questions": 10,
+  "total_answerable": 8,
+  "total_unanswerable": 2,
+  "context_evidence_rate": "8/8 (100.0%)",
+  "grounded_score_avg": "1.62/2.0",
+  "grounded_distribution": {
+    "2": 5,
+    "1": 3,
+    "0": 0
+  },
+  "abstention_rate": "2/2 (100.0%)",
+  "avg_latency": 4.35,
+  "total_tokens": 20190,
+  "traces": [
+    {
+      "id": "test_01",
+      "question": "In the Eisenhower Matrix, which tasks come after 'important but not urgent'?",
+      "answerable": true,
+      "gold_evidence": [
+        "B_chunk_0083"
+      ],
+      "retrieved_chunks": [
+        "B_chunk_0083",
+        "B_chunk_0081",
+        "B_chunk_0082"
+      ],
+      "agent_answer": "In the Eisenhower Matrix, the tasks that come after \"important but not urgent\" are \"not important, but urgent,\" followed finally by \"not urgent and not important\" [B_chunk_0083].",
+      "citations": [
+        "B_chunk_0083"
+      ],
+      "abstention": false,
+      "latency": 5.05,
+      "tokens": 1395,
+      "grounded_score": 2
+    },
+    {
+      "id": "test_02",
+      "question": "Who invented the Pomodoro Technique, and what tool did he use?",
+      "answerable": true,
+      "gold_evidence": [
+        "B_chunk_0134"
+      ],
+      "retrieved_chunks": [
+        "B_chunk_0134",
+        "B_chunk_0135",
+        "B_chunk_0133"
+      ],
+      "agent_answer": "The Pomodoro Technique was developed by Francesco Cirillo [B_chunk_0133]. He used a tomato-shaped kitchen timer to keep track of the intervals [B_chunk_0134].",
+      "citations": [
+        "B_chunk_0133",
+        "B_chunk_0134"
+      ],
+      "abstention": false,
+      "latency": 3.46,
+      "tokens": 1446,
+      "grounded_score": 2
+    },
+    {
+      "id": "test_03",
+      "question": "What does 'Time-bound' or 'Timely' mean in SMART goal setting?",
+      "answerable": true,
+      "gold_evidence": [
+        "B_chunk_0124"
+      ],
+      "retrieved_chunks": [
+        "B_chunk_0124",
+        "B_chunk_0123",
+        "B_chunk_0126"
+      ],
+      "agent_answer": "In SMART goal setting, **Time-bound** (or timely) means that you set a specific time frame to achieve the goal so that you know exactly when you have to meet it [B_chunk_0123]. For example, stating \"I will get my paper written by Wednesday\" is time-bound, whereas saying \"I will get my paper written sometime soon\" does not help you plan how and when you will accomplish it [B_chunk_0124, B_chunk_0123].",
+      "citations": [
+        "B_chunk_0123"
+      ],
+      "abstention": false,
+      "latency": 3.36,
+      "tokens": 1550,
+      "grounded_score": 1
+    },
+    {
+      "id": "test_04",
+      "question": "Who is the author of the best-selling book titled 'Eat the Frog' referenced in Section 3.7?",
+      "answerable": true,
+      "gold_evidence": [
+        "B_chunk_0137"
+      ],
+      "retrieved_chunks": [
+        "B_chunk_0137",
+        "B_chunk_0136",
+        "B_chunk_0131"
+      ],
+      "agent_answer": "The author of the best-selling book *Eat the Frog* referenced in Section 3.7 is Brian Tracy [B_chunk_0137].",
+      "citations": [
+        "B_chunk_0137"
+      ],
+      "abstention": false,
+      "latency": 3.83,
+      "tokens": 1431,
+      "grounded_score": 2
+    },
+    {
+      "id": "test_05",
+      "question": "In Section 3.6, what specific example is given of turning an undefined goal of 'doing well in school' into a measurable goal?",
+      "answerable": true,
+      "gold_evidence": [
+        "B_chunk_0122"
+      ],
+      "retrieved_chunks": [
+        "B_chunk_0122",
+        "B_chunk_0125",
+        "B_chunk_0126"
+      ],
+      "agent_answer": "In Section 3.6, the specific example given for turning the undefined goal of \"doing well in school\" into a measurable goal is **graduating with a GPA above 3.0** (or earning at least a 3.0 GPA in all courses next semester) [B_chunk_0122, B_chunk_0126].",
+      "citations": [],
+      "abstention": false,
+      "latency": 2.99,
+      "tokens": 1547,
+      "grounded_score": 1
+    },
+    {
+      "id": "test_06",
+      "question": "What source or newspaper is credited for the data on the average cost of an additional year of college in Table 3.1?",
+      "answerable": true,
+      "gold_evidence": [
+        "B_chunk_0016"
+      ],
+      "retrieved_chunks": [
+        "B_chunk_0015",
+        "B_chunk_0016",
+        "B_chunk_0013"
+      ],
+      "agent_answer": "Based on Table 3.1, the source credited for the data is the **Washington Post** [B_chunk_0015, B_chunk_0016].",
+      "citations": [],
+      "abstention": false,
+      "latency": 3.96,
+      "tokens": 1511,
+      "grounded_score": 1
+    },
+    {
+      "id": "test_07",
+      "question": "According to Section 3.3, what are some of the psychological and physical hurdles that lead to procrastination?",
+      "answerable": true,
+      "gold_evidence": [
+        "B_chunk_0035",
+        "B_chunk_0036"
+      ],
+      "retrieved_chunks": [
+        "B_chunk_0035",
+        "B_chunk_0036",
+        "B_chunk_0033",
+        "B_chunk_0037",
+        "B_chunk_0040"
+      ],
+      "agent_answer": "According to Section 3.3, procrastination can be rooted in our physical well-being or psychological motivations [B_chunk_0035]. Specifically, the hurdles include:\n\n* **Physical hurdles (Lack of Energy):** Feeling like you do not up to a task due to discomfort, illness, a lack of energy, improper diet, or a lack of sleep [B_chunk_0036, B_chunk_0037].\n* **Psychological/Mental hurdles (Lack of Focus):** A lack of mental focus caused by mental fatigue, being disorganized, or being distracted by other things [B_chunk_0037].",
+      "citations": [
+        "B_chunk_0035",
+        "B_chunk_0037"
+      ],
+      "abstention": false,
+      "latency": 4.78,
+      "tokens": 1894,
+      "grounded_score": 2
+    },
+    {
+      "id": "test_08",
+      "question": "Where did Rick intern during his college semester before landing his morning show producer job?",
+      "answerable": true,
+      "gold_evidence": [
+        "B_chunk_0159"
+      ],
+      "retrieved_chunks": [
+        "B_chunk_0159",
+        "B_chunk_0160",
+        "B_chunk_0114"
+      ],
+      "agent_answer": "Rick interned for a semester at a local Top 40 station [B_chunk_0159].",
+      "citations": [
+        "B_chunk_0159"
+      ],
+      "abstention": false,
+      "latency": 3.36,
+      "tokens": 1483,
+      "grounded_score": 2
+    },
+    {
+      "id": "test_09",
+      "question": "What is the average federal Direct Subsidized student loan fixed interest rate specified in Chapter 3?",
+      "answerable": false,
+      "gold_evidence": [],
+      "retrieved_chunks": [
+        "B_chunk_0013",
+        "B_chunk_0015",
+        "B_chunk_0016",
+        "B_chunk_0069",
+        "B_chunk_0014"
+      ],
+      "agent_answer": "There is insufficient evidence in the document to answer the question regarding the average federal Direct Subsidized student loan fixed interest rate.",
+      "citations": [],
+      "abstention": true,
+      "latency": 4.86,
+      "tokens": 3124,
+      "grounded_score": null
+    },
+    {
+      "id": "test_010",
+      "question": "What are the five phases of the SQ3R textbook reading method described in Chapter 3?",
+      "answerable": false,
+      "gold_evidence": [],
+      "retrieved_chunks": [
+        "B_chunk_0072",
+        "B_chunk_0070",
+        "B_chunk_0005",
+        "B_chunk_0074",
+        "B_chunk_0132",
+        "B_chunk_0097"
+      ],
+      "agent_answer": "There is insufficient evidence in the document to answer your question about the five phases of the SQ3R textbook reading method.",
+      "citations": [],
+      "abstention": true,
+      "latency": 7.86,
+      "tokens": 4809,
+      "grounded_score": null
+    }
+  ]
+}

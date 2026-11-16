@@ -1,0 +1,629 @@
+{
+  "method": "rerank_local",
+  "total_questions": 30,
+  "context_evidence_rate": "24/25 (96.0%)",
+  "grounded_score_avg": "1.88/2.0",
+  "grounded_distribution": {
+    "2": 23,
+    "1": 1,
+    "0": 1
+  },
+  "abstention_rate": "4/5 (80.0%)",
+  "avg_latency": 5.06,
+  "total_tokens": 65553,
+  "traces": [
+    {
+      "id": "dev_01",
+      "question": "According to the Washington Post estimates in Table 3.1, what is the estimated average total loss for an additional year of college?",
+      "answerable": true,
+      "gold_evidence": [
+        "B_chunk_0016"
+      ],
+      "retrieved_chunks": [
+        "B_chunk_0015",
+        "B_chunk_0016",
+        "B_chunk_0014",
+        "B_chunk_0013",
+        "B_chunk_0012"
+      ],
+      "agent_answer": "According to Table 3.1, based on estimates from the *Washington Post*, the estimated average total loss for an additional year of college is $151,115 [B_chunk_0016].",
+      "citations": [
+        "B_chunk_0016"
+      ],
+      "abstention": false,
+      "latency": 3.14,
+      "tokens": 1885
+    },
+    {
+      "id": "dev_02",
+      "question": "What role did Dwight Eisenhower serve before becoming the 34th president of the United States, during which he used his prioritization technique?",
+      "answerable": true,
+      "gold_evidence": [
+        "B_chunk_0082"
+      ],
+      "retrieved_chunks": [
+        "B_chunk_0082",
+        "B_chunk_0081",
+        "B_chunk_0083"
+      ],
+      "agent_answer": "Before becoming the 34th president of the United States, Dwight Eisenhower served as the Allied forces supreme commander during World War II [B_chunk_0082].",
+      "citations": [
+        "B_chunk_0082"
+      ],
+      "abstention": false,
+      "latency": 3.72,
+      "tokens": 1407
+    },
+    {
+      "id": "dev_03",
+      "question": "In the Eisenhower Matrix, which tasks should be finished first?",
+      "answerable": true,
+      "gold_evidence": [
+        "B_chunk_0083"
+      ],
+      "retrieved_chunks": [
+        "B_chunk_0083",
+        "B_chunk_0081",
+        "B_chunk_0082"
+      ],
+      "agent_answer": "In the Eisenhower Matrix, the tasks that should be finished first are those listed in the \"Important and Urgent\" square [B_chunk_0083].",
+      "citations": [
+        "B_chunk_0083"
+      ],
+      "abstention": false,
+      "latency": 3.18,
+      "tokens": 1382
+    },
+    {
+      "id": "dev_04",
+      "question": "How long are pomodoro intervals in the original technique, and why are they named pomodoros?",
+      "answerable": true,
+      "gold_evidence": [
+        "B_chunk_0134"
+      ],
+      "retrieved_chunks": [
+        "B_chunk_0134",
+        "B_chunk_0133",
+        "B_chunk_0135"
+      ],
+      "agent_answer": "In the Pomodoro Technique, the intervals are usually about 25 minutes long [B_chunk_0134]. They are called pomodoros\u2014which is the Italian word for tomato\u2014because the developer, Francesco Cirillo, used a tomato-shaped kitchen timer to track the intervals [B_chunk_0133, B_chunk_0134].",
+      "citations": [
+        "B_chunk_0134"
+      ],
+      "abstention": false,
+      "latency": 4.11,
+      "tokens": 1491
+    },
+    {
+      "id": "dev_05",
+      "question": "According to the Pomodoro Technique, what breaks should you take after working on tasks?",
+      "answerable": true,
+      "gold_evidence": [
+        "B_chunk_0135"
+      ],
+      "retrieved_chunks": [
+        "B_chunk_0135",
+        "B_chunk_0133",
+        "B_chunk_0134"
+      ],
+      "agent_answer": "According to the Pomodoro Technique, the breaks you should take depend on how many pomodoro intervals you have completed:\n\n* After working on a pomodoro where you have fewer than four check marks, you should take a short break of **3\u20135 minutes** [B_chunk_0135].\n* After completing **four pomodoros**, you should take a longer break of **15\u201330 minutes** [B_chunk_0135].",
+      "citations": [
+        "B_chunk_0135"
+      ],
+      "abstention": false,
+      "latency": 3.85,
+      "tokens": 1508
+    },
+    {
+      "id": "dev_06",
+      "question": "What famous quote is the name 'Eat the Frog' attributed to, and who wrote the best-selling book with that title?",
+      "answerable": true,
+      "gold_evidence": [
+        "B_chunk_0137"
+      ],
+      "retrieved_chunks": [
+        "B_chunk_0137",
+        "B_chunk_0136",
+        "B_chunk_0082"
+      ],
+      "agent_answer": "The name \"Eat the Frog\" is attributed to a famous quote by Mark Twain: \u201cEat a live frog first thing in the morning and nothing worse will happen to you the rest of the day.\u201d \n\nThe best-selling book with that title was written by Brian Tracy [B_chunk_0137].",
+      "citations": [
+        "B_chunk_0137"
+      ],
+      "abstention": false,
+      "latency": 5.13,
+      "tokens": 1429
+    },
+    {
+      "id": "dev_07",
+      "question": "What does it mean for a goal to be 'Specific' in the SMART goal framework?",
+      "answerable": true,
+      "gold_evidence": [
+        "B_chunk_0121"
+      ],
+      "retrieved_chunks": [
+        "B_chunk_0121",
+        "B_chunk_0124",
+        "B_chunk_0125"
+      ],
+      "agent_answer": "For a goal to be \"Specific\" in the SMART goal framework, it must be defined enough to actually determine the goal [B_chunk_0121]. Instead of being too general\u2014such as wanting to \"get a good job when I graduate\" or \"do well in all my courses\"\u2014a specific goal clearly defines what you are trying to achieve (for example, being hired as a nurse in an enjoyable workplace with room for promotion) [B_chunk_0121, B_chunk_0125].",
+      "citations": [
+        "B_chunk_0121"
+      ],
+      "abstention": false,
+      "latency": 3.62,
+      "tokens": 1474
+    },
+    {
+      "id": "dev_08",
+      "question": "In SMART goal setting, what makes a goal 'Measurable'?",
+      "answerable": true,
+      "gold_evidence": [
+        "B_chunk_0122"
+      ],
+      "retrieved_chunks": [
+        "B_chunk_0125",
+        "B_chunk_0121",
+        "B_chunk_0122"
+      ],
+      "agent_answer": "Based on the textbook, a goal is **Measurable** when it has clearly defined outcomes that are detailed enough to measure and can be used to plan how you will achieve the goal [B_chunk_0122]. \n\nFor example, while \"doing well in school\" is undefined, setting a goal to \"graduate with a GPA above 3.0\" is measurable because it provides a specific metric you can track, allowing you to know ahead of time what points you need to earn on specific assignments to stay within your desired range [B_chunk_0122].",
+      "citations": [
+        "B_chunk_0122"
+      ],
+      "abstention": false,
+      "latency": 4.97,
+      "tokens": 1463
+    },
+    {
+      "id": "dev_09",
+      "question": "Why is a goal like 'make an extra one million dollars by the end of the week' not considered an achievable or realistic SMART goal for a student?",
+      "answerable": true,
+      "gold_evidence": [
+        "B_chunk_0123"
+      ],
+      "retrieved_chunks": [
+        "B_chunk_0123",
+        "B_chunk_0124",
+        "B_chunk_0126"
+      ],
+      "agent_answer": "A goal like \"making an extra one million dollars by the end of the week\" is not considered achievable or realistic because the odds of making that happen in a single week are not very realistic [B_chunk_0123].",
+      "citations": [
+        "B_chunk_0123"
+      ],
+      "abstention": false,
+      "latency": 3.4,
+      "tokens": 1521
+    },
+    {
+      "id": "dev_010",
+      "question": "How does the text explain 'Fear of Failure' as a psychological cause of procrastination?",
+      "answerable": true,
+      "gold_evidence": [
+        "B_chunk_0039"
+      ],
+      "retrieved_chunks": [
+        "B_chunk_0038",
+        "B_chunk_0039",
+        "B_chunk_0035",
+        "B_chunk_0034",
+        "B_chunk_0040"
+      ],
+      "agent_answer": "The text explains \"Fear of Failure\" as a form of self-trickery where a person avoids a task that makes them psychologically uncomfortable [B_chunk_0038]. Even without being consciously aware of it, the individual is afraid they cannot do the task or will not be able to do it well, which would make them appear incompetent to others or themselves [B_chunk_0038]. \n\nBy avoiding the task, the person can rationalize that any failure was due to running out of time rather than a lack of capability [B_chunk_0039]. The text notes that this fear may have nothing to do with the person's actual ability\u2014they might be entirely capable of performing well, but it is the fear itself that holds them back [B_chunk_0039].",
+      "citations": [
+        "B_chunk_0038",
+        "B_chunk_0039"
+      ],
+      "abstention": false,
+      "latency": 3.55,
+      "tokens": 1927
+    },
+    {
+      "id": "dev_011",
+      "question": "Give an example provided in the text of using a reward to avoid procrastination.",
+      "answerable": true,
+      "gold_evidence": [
+        "B_chunk_0046"
+      ],
+      "retrieved_chunks": [
+        "B_chunk_0046",
+        "B_chunk_0033",
+        "B_chunk_0034"
+      ],
+      "agent_answer": "An example provided in the text of using a reward to avoid procrastination is rewarding yourself with the time to watch a movie you enjoy *after* you have finished the things you need to do, rather than using the movie as a way to keep yourself from getting those things done [B_chunk_0046].",
+      "citations": [
+        "B_chunk_0046"
+      ],
+      "abstention": false,
+      "latency": 3.48,
+      "tokens": 1428
+    },
+    {
+      "id": "dev_012",
+      "question": "In the Chapter 3 Career Connection, what position was Rick offered after graduation?",
+      "answerable": true,
+      "gold_evidence": [
+        "B_chunk_0159"
+      ],
+      "retrieved_chunks": [
+        "B_chunk_0159",
+        "B_chunk_0014",
+        "B_chunk_0012",
+        "B_chunk_0016",
+        "B_chunk_0158"
+      ],
+      "agent_answer": "In the Chapter 3 Career Connection, Rick was offered a position as the producer of the station's morning show after graduation [B_chunk_0159].",
+      "citations": [
+        "B_chunk_0159"
+      ],
+      "abstention": false,
+      "latency": 4.26,
+      "tokens": 1774
+    },
+    {
+      "id": "dev_013",
+      "question": "In Section 3.7 case study, what was included in Sarah's Tuesday-night routine?",
+      "answerable": true,
+      "gold_evidence": [
+        "B_chunk_0154"
+      ],
+      "retrieved_chunks": [
+        "B_chunk_0153",
+        "B_chunk_0154",
+        "B_chunk_0143",
+        "B_chunk_0144",
+        "B_chunk_0157"
+      ],
+      "agent_answer": "In Section 3.7, Sarah's Tuesday-night routine includes the following activities:\n\n* **Shopping:** After work, she does her weekly shopping and driving, which takes 2 hours [B_chunk_0153]. This involves coming home from work, taking stock of what she needs, driving to the store, selecting groceries while planning meals, and driving back home [B_chunk_0154].\n* **Dinner:** Preparing and eating dinner takes 1 hour [B_chunk_0153].\n* **Homework:** She spends 1 hour on homework [B_chunk_0153].\n* **Internet/Social:** She spends 1 hour catching up with friends, reading the news, and engaging in other Internet activities [B_chunk_0153].\n* **Bedtime wind-down:** She spends 1 hour watching television or reading before going to bed [B_chunk_0153].",
+      "citations": [
+        "B_chunk_0153",
+        "B_chunk_0154"
+      ],
+      "abstention": false,
+      "latency": 5.18,
+      "tokens": 1834
+    },
+    {
+      "id": "dev_014",
+      "question": "According to Section 3.3, what are potential causes of a lack of energy when facing a task?",
+      "answerable": true,
+      "gold_evidence": [
+        "B_chunk_0036",
+        "B_chunk_0037"
+      ],
+      "retrieved_chunks": [
+        "B_chunk_0036",
+        "B_chunk_0037",
+        "B_chunk_0038"
+      ],
+      "agent_answer": "According to Section 3.3, potential causes of a lack of energy when facing a task include:\n\n* Discomfort [B_chunk_0036]\n* Illness [B_chunk_0036]\n* A lack of sleep [B_chunk_0037]\n* An improper diet [B_chunk_0037]",
+      "citations": [
+        "B_chunk_0036",
+        "B_chunk_0037"
+      ],
+      "abstention": false,
+      "latency": 3.5,
+      "tokens": 1463
+    },
+    {
+      "id": "dev_015",
+      "question": "According to Table 3.1, what is the exact amount estimated for lost wages during an additional year of college?",
+      "answerable": true,
+      "gold_evidence": [
+        "B_chunk_0016"
+      ],
+      "retrieved_chunks": [
+        "B_chunk_0016",
+        "B_chunk_0015",
+        "B_chunk_0014"
+      ],
+      "agent_answer": "According to Table 3.1, the exact amount estimated for lost wages during an additional year of college is **$46,335** [B_chunk_0016].",
+      "citations": [
+        "B_chunk_0016"
+      ],
+      "abstention": false,
+      "latency": 3.41,
+      "tokens": 1474
+    },
+    {
+      "id": "dev_016",
+      "question": "What is the estimated loss in retirement earnings resulting from an additional year in college according to Table 3.1?",
+      "answerable": true,
+      "gold_evidence": [
+        "B_chunk_0016"
+      ],
+      "retrieved_chunks": [
+        "B_chunk_0016",
+        "B_chunk_0014",
+        "B_chunk_0015"
+      ],
+      "agent_answer": "According to Table 3.1, the estimated loss in retirement earnings resulting from an additional year in college is $82,074 [B_chunk_0016].",
+      "citations": [
+        "B_chunk_0016"
+      ],
+      "abstention": false,
+      "latency": 3.96,
+      "tokens": 1466
+    },
+    {
+      "id": "dev_017",
+      "question": "What is the main concept of the 'Eat the Frog' time management method?",
+      "answerable": true,
+      "gold_evidence": [
+        "B_chunk_0137"
+      ],
+      "retrieved_chunks": [
+        "B_chunk_0137",
+        "B_chunk_0136",
+        "B_chunk_0007"
+      ],
+      "agent_answer": "The main concept of the 'Eat the Frog' time management method is that if a person tackles and takes care of their biggest or most unpleasant task first thing in the morning, everything else for the rest of the day will be easier [B_chunk_0137].",
+      "citations": [
+        "B_chunk_0137"
+      ],
+      "abstention": false,
+      "latency": 3.76,
+      "tokens": 1357
+    },
+    {
+      "id": "dev_018",
+      "question": "How is prioritization defined or conceptualized in Section 3.5?",
+      "answerable": true,
+      "gold_evidence": [
+        "B_chunk_0077"
+      ],
+      "retrieved_chunks": [
+        "B_chunk_0076",
+        "B_chunk_0077",
+        "B_chunk_0083",
+        "B_chunk_0093",
+        "B_chunk_0104"
+      ],
+      "agent_answer": "In Section 3.5, prioritization is conceptualized as the self-management of what you do and when you do it, and it can be thought of as \"ordering tasks and allotting time for them based on their identified needs or value\" [B_chunk_0076, B_chunk_0077].",
+      "citations": [],
+      "abstention": false,
+      "latency": 7.31,
+      "tokens": 2326
+    },
+    {
+      "id": "dev_019",
+      "question": "According to Figure 3.11 in Section 3.5, why is allowing time to think important?",
+      "answerable": true,
+      "gold_evidence": [
+        "B_chunk_0098"
+      ],
+      "retrieved_chunks": [
+        "B_chunk_0098",
+        "B_chunk_0025",
+        "B_chunk_0021"
+      ],
+      "agent_answer": "According to Figure 3.11 in Section 3.5, allowing time to think is important because it is an important part of learning [B_chunk_0098].",
+      "citations": [
+        "B_chunk_0098"
+      ],
+      "abstention": false,
+      "latency": 6.74,
+      "tokens": 2760
+    },
+    {
+      "id": "dev_020",
+      "question": "In the SMART goal examples in Table 3.6, why is 'I will earn at least a 3.0 GPA in all my courses next semester' considered SMART?",
+      "answerable": true,
+      "gold_evidence": [
+        "B_chunk_0126"
+      ],
+      "retrieved_chunks": [
+        "B_chunk_0126",
+        "B_chunk_0125",
+        "B_chunk_0129"
+      ],
+      "agent_answer": "According to Table 3.6, the goal \"I will earn at least a 3.0 GPA in all my courses next semester\" is considered SMART because **all of the SMART attributes are present** in the goal [B_chunk_0126].",
+      "citations": [
+        "B_chunk_0126"
+      ],
+      "abstention": false,
+      "latency": 3.42,
+      "tokens": 1540
+    },
+    {
+      "id": "dev_021",
+      "question": "According to Figure 3.1 in the chapter introduction, what dual role do electronic devices play in time management?",
+      "answerable": true,
+      "gold_evidence": [
+        "B_chunk_0001"
+      ],
+      "retrieved_chunks": [
+        "B_chunk_0001",
+        "B_chunk_0153",
+        "B_chunk_0024"
+      ],
+      "agent_answer": "According to Figure 3.1, electronic devices play the dual role of being helpful tools for managing time while also leading to distraction [B_chunk_0001].",
+      "citations": [
+        "B_chunk_0001"
+      ],
+      "abstention": false,
+      "latency": 4.01,
+      "tokens": 1363
+    },
+    {
+      "id": "dev_022",
+      "question": "What does the text say about the reality of multitasking when managing priorities?",
+      "answerable": true,
+      "gold_evidence": [
+        "B_chunk_0101"
+      ],
+      "retrieved_chunks": [
+        "B_chunk_0091",
+        "B_chunk_0001",
+        "B_chunk_0084",
+        "B_chunk_0002",
+        "B_chunk_0143",
+        "B_chunk_0079"
+      ],
+      "agent_answer": "Based on the retrieved evidence from Chapter 3, there is insufficient evidence in the document to answer the question about the reality of multitasking.",
+      "citations": [],
+      "abstention": true,
+      "latency": 9.15,
+      "tokens": 5045
+    },
+    {
+      "id": "dev_023",
+      "question": "Why does the text advise against studying while lying back on a comfortable couch or bed?",
+      "answerable": true,
+      "gold_evidence": [
+        "B_chunk_0108"
+      ],
+      "retrieved_chunks": [
+        "B_chunk_0108",
+        "B_chunk_0113",
+        "B_chunk_0068"
+      ],
+      "agent_answer": "The text advises sitting up at a desk or table instead of lying back on a couch because sitting up actually increases your typing speed and reduces the number of mistakes [B_chunk_0108].",
+      "citations": [
+        "B_chunk_0108"
+      ],
+      "abstention": false,
+      "latency": 5.91,
+      "tokens": 3024
+    },
+    {
+      "id": "dev_024",
+      "question": "In the Section 3.4 estimation activity, what was the estimated time versus actual time for a Practice Quiz?",
+      "answerable": true,
+      "gold_evidence": [
+        "B_chunk_0056"
+      ],
+      "retrieved_chunks": [
+        "B_chunk_0056",
+        "B_chunk_0071",
+        "B_chunk_0054"
+      ],
+      "agent_answer": "In the Section 3.4 estimation activity, the estimated time for a Practice Quiz was **5 minutes**, and the actual time was **15 minutes** [B_chunk_0056].",
+      "citations": [
+        "B_chunk_0056"
+      ],
+      "abstention": false,
+      "latency": 5.4,
+      "tokens": 1286
+    },
+    {
+      "id": "dev_025",
+      "question": "In Section 3.1 student reflection, what was the most important benefit the student gained after improving time management?",
+      "answerable": true,
+      "gold_evidence": [
+        "B_chunk_0006"
+      ],
+      "retrieved_chunks": [
+        "B_chunk_0007",
+        "B_chunk_0001",
+        "B_chunk_0015",
+        "B_chunk_0008",
+        "B_chunk_0006"
+      ],
+      "agent_answer": "According to the student reflection in Section 3.1, the most important benefit gained after improving time management was having \"peace of mind throughout the day and during the tests themselves, since I knew that I was better prepared\" [B_chunk_0006].",
+      "citations": [
+        "B_chunk_0006"
+      ],
+      "abstention": false,
+      "latency": 6.88,
+      "tokens": 2851
+    },
+    {
+      "id": "dev_026",
+      "question": "What are the specific five steps of the Cornell Note-Taking System described in Chapter 3?",
+      "answerable": false,
+      "gold_evidence": [],
+      "retrieved_chunks": [
+        "B_chunk_0135",
+        "B_chunk_0140",
+        "B_chunk_0134",
+        "B_chunk_0025",
+        "B_chunk_0128",
+        "B_chunk_0023",
+        "B_chunk_0004",
+        "B_chunk_0032",
+        "B_chunk_0001"
+      ],
+      "agent_answer": "Based on the retrieved evidence from Chapter 3, there is insufficient evidence in the document to describe the five steps of the Cornell Note-The System. The text mentions other techniques such as the Pomodoro Technique, but does not cover the Cornell Note-Taking System.",
+      "citations": [],
+      "abstention": true,
+      "latency": 9.96,
+      "tokens": 4743
+    },
+    {
+      "id": "dev_027",
+      "question": "What is the exact federal deadline for submitting the FAFSA financial aid application mentioned in the text?",
+      "answerable": false,
+      "gold_evidence": [],
+      "retrieved_chunks": [
+        "B_chunk_0128",
+        "B_chunk_0012",
+        "B_chunk_0014",
+        "B_chunk_0004",
+        "B_chunk_0102",
+        "B_chunk_0013"
+      ],
+      "agent_answer": "Based on the provided textbook text, there is insufficient evidence regarding the exact federal deadline for submitting the FAFSA financial aid application [B_chunk_0004, B_chunk_0012, B_chunk_0013, B_chunk_0014, B_chunk_0102, B_chunk_0128].",
+      "citations": [],
+      "abstention": true,
+      "latency": 6.46,
+      "tokens": 3046
+    },
+    {
+      "id": "dev_028",
+      "question": "What is the university's exact refund percentage if a student drops a course after week 3?",
+      "answerable": false,
+      "gold_evidence": [],
+      "retrieved_chunks": [
+        "B_chunk_0133",
+        "B_chunk_0016",
+        "B_chunk_0015",
+        "B_chunk_0012",
+        "B_chunk_0013"
+      ],
+      "agent_answer": "Based on the retrieved evidence from the textbook, there is insufficient information in the document to state the university's exact refund percentage if a student drops a course after week 3.",
+      "citations": [],
+      "abstention": false,
+      "latency": 5.76,
+      "tokens": 3124
+    },
+    {
+      "id": "dev_029",
+      "question": "Which spaced repetition algorithm does Chapter 3 recommend for Anki flashcard scheduling?",
+      "answerable": false,
+      "gold_evidence": [],
+      "retrieved_chunks": [
+        "B_chunk_0005",
+        "B_chunk_0004",
+        "B_chunk_0141",
+        "B_chunk_0143",
+        "B_chunk_0001"
+      ],
+      "agent_answer": "There is insufficient evidence in the document to answer which spaced repetition algorithm Chapter 3 recommends for Anki flashcard scheduling.",
+      "citations": [],
+      "abstention": true,
+      "latency": 8.27,
+      "tokens": 4444
+    },
+    {
+      "id": "dev_030",
+      "question": "What mandatory vaccinations must incoming college freshmen submit to the campus health center before moving into dorms?",
+      "answerable": false,
+      "gold_evidence": [],
+      "retrieved_chunks": [
+        "B_chunk_0027",
+        "B_chunk_0032",
+        "B_chunk_0030",
+        "B_chunk_0031",
+        "B_chunk_0028",
+        "B_chunk_0004",
+        "B_chunk_0008",
+        "B_chunk_0006"
+      ],
+      "agent_answer": "There is insufficient evidence in the provided textbook document to answer the question regarding mandatory vaccinations for incoming college freshmen.",
+      "citations": [],
+      "abstention": true,
+      "latency": 6.44,
+      "tokens": 3718
+    }
+  ]
+}

@@ -1,0 +1,1812 @@
+{
+  "dense": {
+    "method": "dense",
+    "total_answerable": 25,
+    "hit1_count": 20,
+    "hit1_rate": 80.0,
+    "hit3_count": 23,
+    "hit3_rate": 92.0,
+    "duration_sec": 31.02,
+    "records": [
+      {
+        "id": "dev_01",
+        "question": "According to the Washington Post estimates in Table 3.1, what is the estimated average total loss for an additional year of college?",
+        "gold_chunks": [
+          "B_chunk_0016"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0016",
+          "B_chunk_0015",
+          "B_chunk_0014"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_02",
+        "question": "What role did Dwight Eisenhower serve before becoming the 34th president of the United States, during which he used his prioritization technique?",
+        "gold_chunks": [
+          "B_chunk_0082"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0082",
+          "B_chunk_0081",
+          "B_chunk_0083"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_03",
+        "question": "In the Eisenhower Matrix, which tasks should be finished first?",
+        "gold_chunks": [
+          "B_chunk_0083"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0083",
+          "B_chunk_0081",
+          "B_chunk_0082"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_04",
+        "question": "How long are pomodoro intervals in the original technique, and why are they named pomodoros?",
+        "gold_chunks": [
+          "B_chunk_0134"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0134",
+          "B_chunk_0135",
+          "B_chunk_0133"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_05",
+        "question": "According to the Pomodoro Technique, what breaks should you take after working on tasks?",
+        "gold_chunks": [
+          "B_chunk_0135"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0135",
+          "B_chunk_0134",
+          "B_chunk_0133"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_06",
+        "question": "What famous quote is the name 'Eat the Frog' attributed to, and who wrote the best-selling book with that title?",
+        "gold_chunks": [
+          "B_chunk_0137"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0137",
+          "B_chunk_0136",
+          "B_chunk_0131"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_07",
+        "question": "What does it mean for a goal to be 'Specific' in the SMART goal framework?",
+        "gold_chunks": [
+          "B_chunk_0121"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0121",
+          "B_chunk_0122",
+          "B_chunk_0119"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_08",
+        "question": "In SMART goal setting, what makes a goal 'Measurable'?",
+        "gold_chunks": [
+          "B_chunk_0122"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0122",
+          "B_chunk_0121",
+          "B_chunk_0124"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_09",
+        "question": "Why is a goal like 'make an extra one million dollars by the end of the week' not considered an achievable or realistic SMART goal for a student?",
+        "gold_chunks": [
+          "B_chunk_0123"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0123",
+          "B_chunk_0124",
+          "B_chunk_0121"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_010",
+        "question": "How does the text explain 'Fear of Failure' as a psychological cause of procrastination?",
+        "gold_chunks": [
+          "B_chunk_0039"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0038",
+          "B_chunk_0039",
+          "B_chunk_0034"
+        ],
+        "hit@1": false,
+        "hit@3": true
+      },
+      {
+        "id": "dev_011",
+        "question": "Give an example provided in the text of using a reward to avoid procrastination.",
+        "gold_chunks": [
+          "B_chunk_0046"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0046",
+          "B_chunk_0045",
+          "B_chunk_0033"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_012",
+        "question": "In the Chapter 3 Career Connection, what position was Rick offered after graduation?",
+        "gold_chunks": [
+          "B_chunk_0159"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0159",
+          "B_chunk_0032",
+          "B_chunk_0019"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_013",
+        "question": "In Section 3.7 case study, what was included in Sarah's Tuesday-night routine?",
+        "gold_chunks": [
+          "B_chunk_0154"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0153",
+          "B_chunk_0154",
+          "B_chunk_0143"
+        ],
+        "hit@1": false,
+        "hit@3": true
+      },
+      {
+        "id": "dev_014",
+        "question": "According to Section 3.3, what are potential causes of a lack of energy when facing a task?",
+        "gold_chunks": [
+          "B_chunk_0036",
+          "B_chunk_0037"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0036",
+          "B_chunk_0037",
+          "B_chunk_0033"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_015",
+        "question": "According to Table 3.1, what is the exact amount estimated for lost wages during an additional year of college?",
+        "gold_chunks": [
+          "B_chunk_0016"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0016",
+          "B_chunk_0015",
+          "B_chunk_0013"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_016",
+        "question": "What is the estimated loss in retirement earnings resulting from an additional year in college according to Table 3.1?",
+        "gold_chunks": [
+          "B_chunk_0016"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0016",
+          "B_chunk_0015",
+          "B_chunk_0014"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_017",
+        "question": "What is the main concept of the 'Eat the Frog' time management method?",
+        "gold_chunks": [
+          "B_chunk_0137"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0137",
+          "B_chunk_0136",
+          "B_chunk_0131"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_018",
+        "question": "How is prioritization defined or conceptualized in Section 3.5?",
+        "gold_chunks": [
+          "B_chunk_0077"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0076",
+          "B_chunk_0077",
+          "B_chunk_0083"
+        ],
+        "hit@1": false,
+        "hit@3": true
+      },
+      {
+        "id": "dev_019",
+        "question": "According to Figure 3.11 in Section 3.5, why is allowing time to think important?",
+        "gold_chunks": [
+          "B_chunk_0098"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0098",
+          "B_chunk_0025",
+          "B_chunk_0153"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_020",
+        "question": "In the SMART goal examples in Table 3.6, why is 'I will earn at least a 3.0 GPA in all my courses next semester' considered SMART?",
+        "gold_chunks": [
+          "B_chunk_0126"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0126",
+          "B_chunk_0125",
+          "B_chunk_0122"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_021",
+        "question": "According to Figure 3.1 in the chapter introduction, what dual role do electronic devices play in time management?",
+        "gold_chunks": [
+          "B_chunk_0001"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0001",
+          "B_chunk_0024",
+          "B_chunk_0162"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_022",
+        "question": "What does the text say about the reality of multitasking when managing priorities?",
+        "gold_chunks": [
+          "B_chunk_0101"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0078",
+          "B_chunk_0090",
+          "B_chunk_0076"
+        ],
+        "hit@1": false,
+        "hit@3": false
+      },
+      {
+        "id": "dev_023",
+        "question": "Why does the text advise against studying while lying back on a comfortable couch or bed?",
+        "gold_chunks": [
+          "B_chunk_0108"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0108",
+          "B_chunk_0112",
+          "B_chunk_0113"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_024",
+        "question": "In the Section 3.4 estimation activity, what was the estimated time versus actual time for a Practice Quiz?",
+        "gold_chunks": [
+          "B_chunk_0056"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0056",
+          "B_chunk_0072",
+          "B_chunk_0070"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_025",
+        "question": "In Section 3.1 student reflection, what was the most important benefit the student gained after improving time management?",
+        "gold_chunks": [
+          "B_chunk_0006"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0007",
+          "B_chunk_0003",
+          "B_chunk_0146"
+        ],
+        "hit@1": false,
+        "hit@3": false
+      }
+    ]
+  },
+  "bm25": {
+    "method": "bm25",
+    "total_answerable": 25,
+    "hit1_count": 18,
+    "hit1_rate": 72.0,
+    "hit3_count": 22,
+    "hit3_rate": 88.0,
+    "duration_sec": 0.01,
+    "records": [
+      {
+        "id": "dev_01",
+        "question": "According to the Washington Post estimates in Table 3.1, what is the estimated average total loss for an additional year of college?",
+        "gold_chunks": [
+          "B_chunk_0016"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0014",
+          "B_chunk_0015",
+          "B_chunk_0016"
+        ],
+        "hit@1": false,
+        "hit@3": true
+      },
+      {
+        "id": "dev_02",
+        "question": "What role did Dwight Eisenhower serve before becoming the 34th president of the United States, during which he used his prioritization technique?",
+        "gold_chunks": [
+          "B_chunk_0082"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0082",
+          "B_chunk_0065",
+          "B_chunk_0064"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_03",
+        "question": "In the Eisenhower Matrix, which tasks should be finished first?",
+        "gold_chunks": [
+          "B_chunk_0083"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0081",
+          "B_chunk_0083",
+          "B_chunk_0051"
+        ],
+        "hit@1": false,
+        "hit@3": true
+      },
+      {
+        "id": "dev_04",
+        "question": "How long are pomodoro intervals in the original technique, and why are they named pomodoros?",
+        "gold_chunks": [
+          "B_chunk_0134"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0134",
+          "B_chunk_0133",
+          "B_chunk_0135"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_05",
+        "question": "According to the Pomodoro Technique, what breaks should you take after working on tasks?",
+        "gold_chunks": [
+          "B_chunk_0135"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0135",
+          "B_chunk_0133",
+          "B_chunk_0145"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_06",
+        "question": "What famous quote is the name 'Eat the Frog' attributed to, and who wrote the best-selling book with that title?",
+        "gold_chunks": [
+          "B_chunk_0137"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0137",
+          "B_chunk_0136",
+          "B_chunk_0053"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_07",
+        "question": "What does it mean for a goal to be 'Specific' in the SMART goal framework?",
+        "gold_chunks": [
+          "B_chunk_0121"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0121",
+          "B_chunk_0124",
+          "B_chunk_0125"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_08",
+        "question": "In SMART goal setting, what makes a goal 'Measurable'?",
+        "gold_chunks": [
+          "B_chunk_0122"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0125",
+          "B_chunk_0121",
+          "B_chunk_0126"
+        ],
+        "hit@1": false,
+        "hit@3": false
+      },
+      {
+        "id": "dev_09",
+        "question": "Why is a goal like 'make an extra one million dollars by the end of the week' not considered an achievable or realistic SMART goal for a student?",
+        "gold_chunks": [
+          "B_chunk_0123"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0123",
+          "B_chunk_0126",
+          "B_chunk_0121"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_010",
+        "question": "How does the text explain 'Fear of Failure' as a psychological cause of procrastination?",
+        "gold_chunks": [
+          "B_chunk_0039"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0039",
+          "B_chunk_0038",
+          "B_chunk_0040"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_011",
+        "question": "Give an example provided in the text of using a reward to avoid procrastination.",
+        "gold_chunks": [
+          "B_chunk_0046"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0034",
+          "B_chunk_0046",
+          "B_chunk_0040"
+        ],
+        "hit@1": false,
+        "hit@3": true
+      },
+      {
+        "id": "dev_012",
+        "question": "In the Chapter 3 Career Connection, what position was Rick offered after graduation?",
+        "gold_chunks": [
+          "B_chunk_0159"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0159",
+          "B_chunk_0158",
+          "B_chunk_0116"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_013",
+        "question": "In Section 3.7 case study, what was included in Sarah's Tuesday-night routine?",
+        "gold_chunks": [
+          "B_chunk_0154"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0154",
+          "B_chunk_0153",
+          "B_chunk_0144"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_014",
+        "question": "According to Section 3.3, what are potential causes of a lack of energy when facing a task?",
+        "gold_chunks": [
+          "B_chunk_0036",
+          "B_chunk_0037"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0037",
+          "B_chunk_0036",
+          "B_chunk_0034"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_015",
+        "question": "According to Table 3.1, what is the exact amount estimated for lost wages during an additional year of college?",
+        "gold_chunks": [
+          "B_chunk_0016"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0016",
+          "B_chunk_0015",
+          "B_chunk_0014"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_016",
+        "question": "What is the estimated loss in retirement earnings resulting from an additional year in college according to Table 3.1?",
+        "gold_chunks": [
+          "B_chunk_0016"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0016",
+          "B_chunk_0014",
+          "B_chunk_0015"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_017",
+        "question": "What is the main concept of the 'Eat the Frog' time management method?",
+        "gold_chunks": [
+          "B_chunk_0137"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0137",
+          "B_chunk_0136",
+          "B_chunk_0150"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_018",
+        "question": "How is prioritization defined or conceptualized in Section 3.5?",
+        "gold_chunks": [
+          "B_chunk_0077"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0076",
+          "B_chunk_0077",
+          "B_chunk_0135"
+        ],
+        "hit@1": false,
+        "hit@3": true
+      },
+      {
+        "id": "dev_019",
+        "question": "According to Figure 3.11 in Section 3.5, why is allowing time to think important?",
+        "gold_chunks": [
+          "B_chunk_0098"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0098",
+          "B_chunk_0076",
+          "B_chunk_0034"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_020",
+        "question": "In the SMART goal examples in Table 3.6, why is 'I will earn at least a 3.0 GPA in all my courses next semester' considered SMART?",
+        "gold_chunks": [
+          "B_chunk_0126"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0126",
+          "B_chunk_0125",
+          "B_chunk_0124"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_021",
+        "question": "According to Figure 3.1 in the chapter introduction, what dual role do electronic devices play in time management?",
+        "gold_chunks": [
+          "B_chunk_0001"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0001",
+          "B_chunk_0002",
+          "B_chunk_0045"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_022",
+        "question": "What does the text say about the reality of multitasking when managing priorities?",
+        "gold_chunks": [
+          "B_chunk_0101"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0104",
+          "B_chunk_0090",
+          "B_chunk_0158"
+        ],
+        "hit@1": false,
+        "hit@3": false
+      },
+      {
+        "id": "dev_023",
+        "question": "Why does the text advise against studying while lying back on a comfortable couch or bed?",
+        "gold_chunks": [
+          "B_chunk_0108"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0108",
+          "B_chunk_0153",
+          "B_chunk_0158"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_024",
+        "question": "In the Section 3.4 estimation activity, what was the estimated time versus actual time for a Practice Quiz?",
+        "gold_chunks": [
+          "B_chunk_0056"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0056",
+          "B_chunk_0018",
+          "B_chunk_0069"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_025",
+        "question": "In Section 3.1 student reflection, what was the most important benefit the student gained after improving time management?",
+        "gold_chunks": [
+          "B_chunk_0006"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0160",
+          "B_chunk_0001",
+          "B_chunk_0015"
+        ],
+        "hit@1": false,
+        "hit@3": false
+      }
+    ]
+  },
+  "hybrid": {
+    "method": "hybrid",
+    "total_answerable": 25,
+    "hit1_count": 19,
+    "hit1_rate": 76.0,
+    "hit3_count": 23,
+    "hit3_rate": 92.0,
+    "duration_sec": 28.86,
+    "records": [
+      {
+        "id": "dev_01",
+        "question": "According to the Washington Post estimates in Table 3.1, what is the estimated average total loss for an additional year of college?",
+        "gold_chunks": [
+          "B_chunk_0016"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0016",
+          "B_chunk_0014",
+          "B_chunk_0015"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_02",
+        "question": "What role did Dwight Eisenhower serve before becoming the 34th president of the United States, during which he used his prioritization technique?",
+        "gold_chunks": [
+          "B_chunk_0082"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0082",
+          "B_chunk_0081",
+          "B_chunk_0083"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_03",
+        "question": "In the Eisenhower Matrix, which tasks should be finished first?",
+        "gold_chunks": [
+          "B_chunk_0083"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0083",
+          "B_chunk_0081",
+          "B_chunk_0082"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_04",
+        "question": "How long are pomodoro intervals in the original technique, and why are they named pomodoros?",
+        "gold_chunks": [
+          "B_chunk_0134"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0134",
+          "B_chunk_0135",
+          "B_chunk_0133"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_05",
+        "question": "According to the Pomodoro Technique, what breaks should you take after working on tasks?",
+        "gold_chunks": [
+          "B_chunk_0135"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0135",
+          "B_chunk_0133",
+          "B_chunk_0145"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_06",
+        "question": "What famous quote is the name 'Eat the Frog' attributed to, and who wrote the best-selling book with that title?",
+        "gold_chunks": [
+          "B_chunk_0137"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0137",
+          "B_chunk_0136",
+          "B_chunk_0131"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_07",
+        "question": "What does it mean for a goal to be 'Specific' in the SMART goal framework?",
+        "gold_chunks": [
+          "B_chunk_0121"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0121",
+          "B_chunk_0124",
+          "B_chunk_0119"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_08",
+        "question": "In SMART goal setting, what makes a goal 'Measurable'?",
+        "gold_chunks": [
+          "B_chunk_0122"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0121",
+          "B_chunk_0122",
+          "B_chunk_0125"
+        ],
+        "hit@1": false,
+        "hit@3": true
+      },
+      {
+        "id": "dev_09",
+        "question": "Why is a goal like 'make an extra one million dollars by the end of the week' not considered an achievable or realistic SMART goal for a student?",
+        "gold_chunks": [
+          "B_chunk_0123"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0123",
+          "B_chunk_0121",
+          "B_chunk_0126"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_010",
+        "question": "How does the text explain 'Fear of Failure' as a psychological cause of procrastination?",
+        "gold_chunks": [
+          "B_chunk_0039"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0038",
+          "B_chunk_0039",
+          "B_chunk_0034"
+        ],
+        "hit@1": false,
+        "hit@3": true
+      },
+      {
+        "id": "dev_011",
+        "question": "Give an example provided in the text of using a reward to avoid procrastination.",
+        "gold_chunks": [
+          "B_chunk_0046"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0046",
+          "B_chunk_0033",
+          "B_chunk_0035"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_012",
+        "question": "In the Chapter 3 Career Connection, what position was Rick offered after graduation?",
+        "gold_chunks": [
+          "B_chunk_0159"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0159",
+          "B_chunk_0032",
+          "B_chunk_0158"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_013",
+        "question": "In Section 3.7 case study, what was included in Sarah's Tuesday-night routine?",
+        "gold_chunks": [
+          "B_chunk_0154"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0153",
+          "B_chunk_0154",
+          "B_chunk_0144"
+        ],
+        "hit@1": false,
+        "hit@3": true
+      },
+      {
+        "id": "dev_014",
+        "question": "According to Section 3.3, what are potential causes of a lack of energy when facing a task?",
+        "gold_chunks": [
+          "B_chunk_0036",
+          "B_chunk_0037"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0036",
+          "B_chunk_0037",
+          "B_chunk_0038"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_015",
+        "question": "According to Table 3.1, what is the exact amount estimated for lost wages during an additional year of college?",
+        "gold_chunks": [
+          "B_chunk_0016"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0016",
+          "B_chunk_0015",
+          "B_chunk_0014"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_016",
+        "question": "What is the estimated loss in retirement earnings resulting from an additional year in college according to Table 3.1?",
+        "gold_chunks": [
+          "B_chunk_0016"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0016",
+          "B_chunk_0015",
+          "B_chunk_0014"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_017",
+        "question": "What is the main concept of the 'Eat the Frog' time management method?",
+        "gold_chunks": [
+          "B_chunk_0137"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0137",
+          "B_chunk_0136",
+          "B_chunk_0140"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_018",
+        "question": "How is prioritization defined or conceptualized in Section 3.5?",
+        "gold_chunks": [
+          "B_chunk_0077"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0076",
+          "B_chunk_0077",
+          "B_chunk_0083"
+        ],
+        "hit@1": false,
+        "hit@3": true
+      },
+      {
+        "id": "dev_019",
+        "question": "According to Figure 3.11 in Section 3.5, why is allowing time to think important?",
+        "gold_chunks": [
+          "B_chunk_0098"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0098",
+          "B_chunk_0025",
+          "B_chunk_0135"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_020",
+        "question": "In the SMART goal examples in Table 3.6, why is 'I will earn at least a 3.0 GPA in all my courses next semester' considered SMART?",
+        "gold_chunks": [
+          "B_chunk_0126"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0126",
+          "B_chunk_0125",
+          "B_chunk_0122"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_021",
+        "question": "According to Figure 3.1 in the chapter introduction, what dual role do electronic devices play in time management?",
+        "gold_chunks": [
+          "B_chunk_0001"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0001",
+          "B_chunk_0024",
+          "B_chunk_0074"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_022",
+        "question": "What does the text say about the reality of multitasking when managing priorities?",
+        "gold_chunks": [
+          "B_chunk_0101"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0090",
+          "B_chunk_0086",
+          "B_chunk_0104"
+        ],
+        "hit@1": false,
+        "hit@3": false
+      },
+      {
+        "id": "dev_023",
+        "question": "Why does the text advise against studying while lying back on a comfortable couch or bed?",
+        "gold_chunks": [
+          "B_chunk_0108"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0108",
+          "B_chunk_0113",
+          "B_chunk_0068"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_024",
+        "question": "In the Section 3.4 estimation activity, what was the estimated time versus actual time for a Practice Quiz?",
+        "gold_chunks": [
+          "B_chunk_0056"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0056",
+          "B_chunk_0069",
+          "B_chunk_0071"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_025",
+        "question": "In Section 3.1 student reflection, what was the most important benefit the student gained after improving time management?",
+        "gold_chunks": [
+          "B_chunk_0006"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0007",
+          "B_chunk_0015",
+          "B_chunk_0001"
+        ],
+        "hit@1": false,
+        "hit@3": false
+      }
+    ]
+  },
+  "rerank_local": {
+    "method": "rerank_local",
+    "total_answerable": 25,
+    "hit1_count": 20,
+    "hit1_rate": 80.0,
+    "hit3_count": 22,
+    "hit3_rate": 88.0,
+    "duration_sec": 39.52,
+    "records": [
+      {
+        "id": "dev_01",
+        "question": "According to the Washington Post estimates in Table 3.1, what is the estimated average total loss for an additional year of college?",
+        "gold_chunks": [
+          "B_chunk_0016"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0016",
+          "B_chunk_0014",
+          "B_chunk_0015"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_02",
+        "question": "What role did Dwight Eisenhower serve before becoming the 34th president of the United States, during which he used his prioritization technique?",
+        "gold_chunks": [
+          "B_chunk_0082"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0082",
+          "B_chunk_0081",
+          "B_chunk_0083"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_03",
+        "question": "In the Eisenhower Matrix, which tasks should be finished first?",
+        "gold_chunks": [
+          "B_chunk_0083"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0083",
+          "B_chunk_0081",
+          "B_chunk_0082"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_04",
+        "question": "How long are pomodoro intervals in the original technique, and why are they named pomodoros?",
+        "gold_chunks": [
+          "B_chunk_0134"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0134",
+          "B_chunk_0133",
+          "B_chunk_0135"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_05",
+        "question": "According to the Pomodoro Technique, what breaks should you take after working on tasks?",
+        "gold_chunks": [
+          "B_chunk_0135"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0135",
+          "B_chunk_0133",
+          "B_chunk_0134"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_06",
+        "question": "What famous quote is the name 'Eat the Frog' attributed to, and who wrote the best-selling book with that title?",
+        "gold_chunks": [
+          "B_chunk_0137"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0137",
+          "B_chunk_0136",
+          "B_chunk_0082"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_07",
+        "question": "What does it mean for a goal to be 'Specific' in the SMART goal framework?",
+        "gold_chunks": [
+          "B_chunk_0121"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0121",
+          "B_chunk_0119",
+          "B_chunk_0125"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_08",
+        "question": "In SMART goal setting, what makes a goal 'Measurable'?",
+        "gold_chunks": [
+          "B_chunk_0122"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0121",
+          "B_chunk_0119",
+          "B_chunk_0126"
+        ],
+        "hit@1": false,
+        "hit@3": false
+      },
+      {
+        "id": "dev_09",
+        "question": "Why is a goal like 'make an extra one million dollars by the end of the week' not considered an achievable or realistic SMART goal for a student?",
+        "gold_chunks": [
+          "B_chunk_0123"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0123",
+          "B_chunk_0122",
+          "B_chunk_0119"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_010",
+        "question": "How does the text explain 'Fear of Failure' as a psychological cause of procrastination?",
+        "gold_chunks": [
+          "B_chunk_0039"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0038",
+          "B_chunk_0039",
+          "B_chunk_0037"
+        ],
+        "hit@1": false,
+        "hit@3": true
+      },
+      {
+        "id": "dev_011",
+        "question": "Give an example provided in the text of using a reward to avoid procrastination.",
+        "gold_chunks": [
+          "B_chunk_0046"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0046",
+          "B_chunk_0034",
+          "B_chunk_0045"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_012",
+        "question": "In the Chapter 3 Career Connection, what position was Rick offered after graduation?",
+        "gold_chunks": [
+          "B_chunk_0159"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0159",
+          "B_chunk_0003",
+          "B_chunk_0158"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_013",
+        "question": "In Section 3.7 case study, what was included in Sarah's Tuesday-night routine?",
+        "gold_chunks": [
+          "B_chunk_0154"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0154",
+          "B_chunk_0153",
+          "B_chunk_0155"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_014",
+        "question": "According to Section 3.3, what are potential causes of a lack of energy when facing a task?",
+        "gold_chunks": [
+          "B_chunk_0036",
+          "B_chunk_0037"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0036",
+          "B_chunk_0037",
+          "B_chunk_0038"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_015",
+        "question": "According to Table 3.1, what is the exact amount estimated for lost wages during an additional year of college?",
+        "gold_chunks": [
+          "B_chunk_0016"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0016",
+          "B_chunk_0015",
+          "B_chunk_0014"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_016",
+        "question": "What is the estimated loss in retirement earnings resulting from an additional year in college according to Table 3.1?",
+        "gold_chunks": [
+          "B_chunk_0016"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0016",
+          "B_chunk_0014",
+          "B_chunk_0015"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_017",
+        "question": "What is the main concept of the 'Eat the Frog' time management method?",
+        "gold_chunks": [
+          "B_chunk_0137"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0137",
+          "B_chunk_0136",
+          "B_chunk_0140"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_018",
+        "question": "How is prioritization defined or conceptualized in Section 3.5?",
+        "gold_chunks": [
+          "B_chunk_0077"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0076",
+          "B_chunk_0077",
+          "B_chunk_0093"
+        ],
+        "hit@1": false,
+        "hit@3": true
+      },
+      {
+        "id": "dev_019",
+        "question": "According to Figure 3.11 in Section 3.5, why is allowing time to think important?",
+        "gold_chunks": [
+          "B_chunk_0098"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0098",
+          "B_chunk_0025",
+          "B_chunk_0076"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_020",
+        "question": "In the SMART goal examples in Table 3.6, why is 'I will earn at least a 3.0 GPA in all my courses next semester' considered SMART?",
+        "gold_chunks": [
+          "B_chunk_0126"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0126",
+          "B_chunk_0125",
+          "B_chunk_0122"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_021",
+        "question": "According to Figure 3.1 in the chapter introduction, what dual role do electronic devices play in time management?",
+        "gold_chunks": [
+          "B_chunk_0001"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0001",
+          "B_chunk_0024",
+          "B_chunk_0158"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_022",
+        "question": "What does the text say about the reality of multitasking when managing priorities?",
+        "gold_chunks": [
+          "B_chunk_0101"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0090",
+          "B_chunk_0138",
+          "B_chunk_0078"
+        ],
+        "hit@1": false,
+        "hit@3": false
+      },
+      {
+        "id": "dev_023",
+        "question": "Why does the text advise against studying while lying back on a comfortable couch or bed?",
+        "gold_chunks": [
+          "B_chunk_0108"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0108",
+          "B_chunk_0113",
+          "B_chunk_0068"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_024",
+        "question": "In the Section 3.4 estimation activity, what was the estimated time versus actual time for a Practice Quiz?",
+        "gold_chunks": [
+          "B_chunk_0056"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0056",
+          "B_chunk_0025",
+          "B_chunk_0069"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_025",
+        "question": "In Section 3.1 student reflection, what was the most important benefit the student gained after improving time management?",
+        "gold_chunks": [
+          "B_chunk_0006"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0001",
+          "B_chunk_0007",
+          "B_chunk_0158"
+        ],
+        "hit@1": false,
+        "hit@3": false
+      }
+    ]
+  },
+  "query_transform": {
+    "method": "query_transform",
+    "total_answerable": 25,
+    "hit1_count": 18,
+    "hit1_rate": 72.0,
+    "hit3_count": 20,
+    "hit3_rate": 80.0,
+    "duration_sec": 62.73,
+    "records": [
+      {
+        "id": "dev_01",
+        "question": "According to the Washington Post estimates in Table 3.1, what is the estimated average total loss for an additional year of college?",
+        "gold_chunks": [
+          "B_chunk_0016"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0016",
+          "B_chunk_0014",
+          "B_chunk_0015"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_02",
+        "question": "What role did Dwight Eisenhower serve before becoming the 34th president of the United States, during which he used his prioritization technique?",
+        "gold_chunks": [
+          "B_chunk_0082"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0082",
+          "B_chunk_0083",
+          "B_chunk_0081"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_03",
+        "question": "In the Eisenhower Matrix, which tasks should be finished first?",
+        "gold_chunks": [
+          "B_chunk_0083"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0083",
+          "B_chunk_0081",
+          "B_chunk_0158"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_04",
+        "question": "How long are pomodoro intervals in the original technique, and why are they named pomodoros?",
+        "gold_chunks": [
+          "B_chunk_0134"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0134",
+          "B_chunk_0135",
+          "B_chunk_0133"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_05",
+        "question": "According to the Pomodoro Technique, what breaks should you take after working on tasks?",
+        "gold_chunks": [
+          "B_chunk_0135"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0135",
+          "B_chunk_0134",
+          "B_chunk_0133"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_06",
+        "question": "What famous quote is the name 'Eat the Frog' attributed to, and who wrote the best-selling book with that title?",
+        "gold_chunks": [
+          "B_chunk_0137"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0137",
+          "B_chunk_0136",
+          "B_chunk_0114"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_07",
+        "question": "What does it mean for a goal to be 'Specific' in the SMART goal framework?",
+        "gold_chunks": [
+          "B_chunk_0121"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0121",
+          "B_chunk_0126",
+          "B_chunk_0119"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_08",
+        "question": "In SMART goal setting, what makes a goal 'Measurable'?",
+        "gold_chunks": [
+          "B_chunk_0122"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0125",
+          "B_chunk_0121",
+          "B_chunk_0126"
+        ],
+        "hit@1": false,
+        "hit@3": false
+      },
+      {
+        "id": "dev_09",
+        "question": "Why is a goal like 'make an extra one million dollars by the end of the week' not considered an achievable or realistic SMART goal for a student?",
+        "gold_chunks": [
+          "B_chunk_0123"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0119",
+          "B_chunk_0126",
+          "B_chunk_0124"
+        ],
+        "hit@1": false,
+        "hit@3": false
+      },
+      {
+        "id": "dev_010",
+        "question": "How does the text explain 'Fear of Failure' as a psychological cause of procrastination?",
+        "gold_chunks": [
+          "B_chunk_0039"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0039",
+          "B_chunk_0038",
+          "B_chunk_0034"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_011",
+        "question": "Give an example provided in the text of using a reward to avoid procrastination.",
+        "gold_chunks": [
+          "B_chunk_0046"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0046",
+          "B_chunk_0044",
+          "B_chunk_0072"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_012",
+        "question": "In the Chapter 3 Career Connection, what position was Rick offered after graduation?",
+        "gold_chunks": [
+          "B_chunk_0159"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0159",
+          "B_chunk_0019",
+          "B_chunk_0016"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_013",
+        "question": "In Section 3.7 case study, what was included in Sarah's Tuesday-night routine?",
+        "gold_chunks": [
+          "B_chunk_0154"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0153",
+          "B_chunk_0154",
+          "B_chunk_0128"
+        ],
+        "hit@1": false,
+        "hit@3": true
+      },
+      {
+        "id": "dev_014",
+        "question": "According to Section 3.3, what are potential causes of a lack of energy when facing a task?",
+        "gold_chunks": [
+          "B_chunk_0036",
+          "B_chunk_0037"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0036",
+          "B_chunk_0037",
+          "B_chunk_0070"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_015",
+        "question": "According to Table 3.1, what is the exact amount estimated for lost wages during an additional year of college?",
+        "gold_chunks": [
+          "B_chunk_0016"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0016",
+          "B_chunk_0015",
+          "B_chunk_0014"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_016",
+        "question": "What is the estimated loss in retirement earnings resulting from an additional year in college according to Table 3.1?",
+        "gold_chunks": [
+          "B_chunk_0016"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0016",
+          "B_chunk_0014",
+          "B_chunk_0015"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_017",
+        "question": "What is the main concept of the 'Eat the Frog' time management method?",
+        "gold_chunks": [
+          "B_chunk_0137"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0137",
+          "B_chunk_0136",
+          "B_chunk_0035"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_018",
+        "question": "How is prioritization defined or conceptualized in Section 3.5?",
+        "gold_chunks": [
+          "B_chunk_0077"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0076",
+          "B_chunk_0077",
+          "B_chunk_0114"
+        ],
+        "hit@1": false,
+        "hit@3": true
+      },
+      {
+        "id": "dev_019",
+        "question": "According to Figure 3.11 in Section 3.5, why is allowing time to think important?",
+        "gold_chunks": [
+          "B_chunk_0098"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0098",
+          "B_chunk_0025",
+          "B_chunk_0001"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_020",
+        "question": "In the SMART goal examples in Table 3.6, why is 'I will earn at least a 3.0 GPA in all my courses next semester' considered SMART?",
+        "gold_chunks": [
+          "B_chunk_0126"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0126",
+          "B_chunk_0125",
+          "B_chunk_0129"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_021",
+        "question": "According to Figure 3.1 in the chapter introduction, what dual role do electronic devices play in time management?",
+        "gold_chunks": [
+          "B_chunk_0001"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0001",
+          "B_chunk_0070",
+          "B_chunk_0153"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_022",
+        "question": "What does the text say about the reality of multitasking when managing priorities?",
+        "gold_chunks": [
+          "B_chunk_0101"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0070",
+          "B_chunk_0091",
+          "B_chunk_0012"
+        ],
+        "hit@1": false,
+        "hit@3": false
+      },
+      {
+        "id": "dev_023",
+        "question": "Why does the text advise against studying while lying back on a comfortable couch or bed?",
+        "gold_chunks": [
+          "B_chunk_0108"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0068",
+          "B_chunk_0070",
+          "B_chunk_0025"
+        ],
+        "hit@1": false,
+        "hit@3": false
+      },
+      {
+        "id": "dev_024",
+        "question": "In the Section 3.4 estimation activity, what was the estimated time versus actual time for a Practice Quiz?",
+        "gold_chunks": [
+          "B_chunk_0056"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0056",
+          "B_chunk_0070",
+          "B_chunk_0071"
+        ],
+        "hit@1": true,
+        "hit@3": true
+      },
+      {
+        "id": "dev_025",
+        "question": "In Section 3.1 student reflection, what was the most important benefit the student gained after improving time management?",
+        "gold_chunks": [
+          "B_chunk_0006"
+        ],
+        "retrieved_chunks": [
+          "B_chunk_0001",
+          "B_chunk_0007",
+          "B_chunk_0015"
+        ],
+        "hit@1": false,
+        "hit@3": false
+      }
+    ]
+  }
+}

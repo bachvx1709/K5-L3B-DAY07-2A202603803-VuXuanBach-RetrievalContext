@@ -1,0 +1,602 @@
+[
+  {
+    "id": "adv_dev_01",
+    "split": "dev",
+    "primary_group": "Table",
+    "question": "According to Table 3.1 on average cost of an additional year of college, what are the lost wages?",
+    "answerable": true,
+    "expected_answer": "Lost wages are $46,335.",
+    "page": 78,
+    "evidence_cite": "Table 3.1 p.78"
+  },
+  {
+    "id": "adv_dev_02",
+    "split": "dev",
+    "primary_group": "Table",
+    "question": "In Table 3.6 SMART goals, why is 'I will earn at least a 3.0 GPA in all my courses next semester' rated SMART?",
+    "answerable": true,
+    "expected_answer": "Yes, because all SMART attributes are present.",
+    "page": 102,
+    "evidence_cite": "Table 3.6 p.102"
+  },
+  {
+    "id": "adv_dev_03",
+    "split": "dev",
+    "primary_group": "Table",
+    "question": "In Table 1.4 First-Year College Milestones, what typical milestone or challenge occurs during the first few weeks?",
+    "answerable": true,
+    "expected_answer": "Adjustment to college coursework and first exams.",
+    "page": 35,
+    "evidence_cite": "Table 1.4 p.35"
+  },
+  {
+    "id": "adv_dev_04",
+    "split": "dev",
+    "primary_group": "Table",
+    "question": "In Table 3.1, what is the average total loss for delaying graduation by one year?",
+    "answerable": true,
+    "expected_answer": "The average total loss is $151,115.",
+    "page": 78,
+    "evidence_cite": "Table 3.1 p.78"
+  },
+  {
+    "id": "adv_dev_05",
+    "split": "dev",
+    "primary_group": "Image/Diagram",
+    "question": "According to Figure 3.15, what technique contains defined steps of work and short breaks?",
+    "answerable": true,
+    "expected_answer": "The Pomodoro Technique.",
+    "page": 106,
+    "evidence_cite": "Figure 3.15 p.106"
+  },
+  {
+    "id": "adv_dev_06",
+    "split": "dev",
+    "primary_group": "Image/Diagram",
+    "question": "In Figure 3.9, what matrix can help organize priorities into four quadrants based on urgency and importance?",
+    "answerable": true,
+    "expected_answer": "The Eisenhower Matrix.",
+    "page": 93,
+    "evidence_cite": "Figure 3.9 p.93"
+  },
+  {
+    "id": "adv_dev_07",
+    "split": "dev",
+    "primary_group": "Image/Diagram",
+    "question": "According to Figure 3.1, what dual role do devices play in student time management?",
+    "answerable": true,
+    "expected_answer": "They are helpful tools for managing time, but can also lead to distraction.",
+    "page": 75,
+    "evidence_cite": "Figure 3.1 p.75"
+  },
+  {
+    "id": "adv_dev_08",
+    "split": "dev",
+    "primary_group": "Image/Diagram",
+    "question": "According to Figure 3.11 in Chapter 3, what important part of learning requires allowing adequate time?",
+    "answerable": true,
+    "expected_answer": "Allowing time to think.",
+    "page": 96,
+    "evidence_cite": "Figure 3.11 p.96"
+  },
+  {
+    "id": "adv_dev_09",
+    "split": "dev",
+    "primary_group": "Chart",
+    "question": "According to Figure 1.3 on lifetime earnings by education level, what is the general trend between higher education and earnings?",
+    "answerable": true,
+    "expected_answer": "Every education level brings potential for greater lifetime earnings.",
+    "page": 22,
+    "evidence_cite": "Figure 1.3 p.22"
+  },
+  {
+    "id": "adv_dev_10",
+    "split": "dev",
+    "primary_group": "Chart",
+    "question": "According to Figure 1.3, does a bachelor's degree holder generally have higher lifetime earnings than a high school graduate?",
+    "answerable": true,
+    "expected_answer": "Yes, higher education levels show significantly higher potential lifetime earnings.",
+    "page": 22,
+    "evidence_cite": "Figure 1.3 p.22"
+  },
+  {
+    "id": "adv_dev_11",
+    "split": "dev",
+    "primary_group": "Chart",
+    "question": "In Figure 1.4, how many areas of adjustment are identified for first-year college students?",
+    "answerable": true,
+    "expected_answer": "Six areas of adjustment based on work by Laurie Hazard and Stephanie Carter.",
+    "page": 25,
+    "evidence_cite": "Figure 1.4 p.25"
+  },
+  {
+    "id": "adv_dev_12",
+    "split": "dev",
+    "primary_group": "Chart",
+    "question": "In Figure 3.13, how many ways to stay motivated are suggested from successful people?",
+    "answerable": true,
+    "expected_answer": "Seven ways to stay motivated.",
+    "page": 104,
+    "evidence_cite": "Figure 3.13 p.104"
+  },
+  {
+    "id": "adv_dev_13",
+    "split": "dev",
+    "primary_group": "Multi-hop",
+    "question": "How does dedicated workspace advice in Chapter 3 help prevent device distractions (Figure 3.1)?",
+    "answerable": true,
+    "expected_answer": "Both emphasize eliminating environmental distractions (sitting at a desk rather than bed, and managing electronic devices) to maintain concentration.",
+    "page": 75,
+    "evidence_cite": "p.75 & p.98"
+  },
+  {
+    "id": "adv_dev_14",
+    "split": "dev",
+    "primary_group": "Multi-hop",
+    "question": "Comparing Table 3.1 and the Career Connection in Chapter 3, what career role did Rick enter versus the average college wage loss?",
+    "answerable": true,
+    "expected_answer": "Rick entered radio broadcasting as a morning show producer, contrasting with the general lost wage calculation of $46,335 during delayed schooling.",
+    "page": 78,
+    "evidence_cite": "p.78 & p.112"
+  },
+  {
+    "id": "adv_dev_15",
+    "split": "dev",
+    "primary_group": "Multi-hop",
+    "question": "How do SMART goals in Section 3.6 assist in categorizing tasks in the Eisenhower Matrix (Section 3.5)?",
+    "answerable": true,
+    "expected_answer": "SMART goals establish defined, measurable outcomes and deadlines, which provide the criteria needed to categorize tasks into Important and Urgent in the matrix.",
+    "page": 93,
+    "evidence_cite": "p.93 & p.101"
+  },
+  {
+    "id": "adv_dev_16",
+    "split": "dev",
+    "primary_group": "Multi-hop",
+    "question": "How does lack of sleep or physical fatigue in Section 3.3 lead to procrastination in college study routines?",
+    "answerable": true,
+    "expected_answer": "Lack of sleep depletes physical energy causing procrastination, which directly conflicts with the rigorous college expectation of 2-3 hours study per credit hour.",
+    "page": 84,
+    "evidence_cite": "p.28 & p.84"
+  },
+  {
+    "id": "adv_dev_17",
+    "split": "dev",
+    "primary_group": "Text",
+    "question": "Who is the Allied supreme commander that inspired the 4-quadrant prioritization technique in Section 3.5?",
+    "answerable": true,
+    "expected_answer": "Dwight Eisenhower.",
+    "page": 93,
+    "evidence_cite": "p.93"
+  },
+  {
+    "id": "adv_dev_18",
+    "split": "dev",
+    "primary_group": "Text",
+    "question": "What author wrote the best-selling book 'Eat the Frog'?",
+    "answerable": true,
+    "expected_answer": "Brian Tracy.",
+    "page": 106,
+    "evidence_cite": "p.106"
+  },
+  {
+    "id": "adv_dev_19",
+    "split": "dev",
+    "primary_group": "Text",
+    "question": "Who invented the Pomodoro Technique?",
+    "answerable": true,
+    "expected_answer": "Francesco Cirillo.",
+    "page": 105,
+    "evidence_cite": "p.105"
+  },
+  {
+    "id": "adv_dev_20",
+    "split": "dev",
+    "primary_group": "Text",
+    "question": "What is the Italian word meaning of pomodoro?",
+    "answerable": true,
+    "expected_answer": "Tomato.",
+    "page": 105,
+    "evidence_cite": "p.105"
+  },
+  {
+    "id": "adv_dev_21",
+    "split": "dev",
+    "primary_group": "Text",
+    "question": "What is the psychological trick behind 'Fear of Failure' in procrastination?",
+    "answerable": true,
+    "expected_answer": "Rationalizing that one failed because they ran out of time rather than lacking ability.",
+    "page": 84,
+    "evidence_cite": "p.84"
+  },
+  {
+    "id": "adv_dev_22",
+    "split": "dev",
+    "primary_group": "Text",
+    "question": "What example is given of rewarding oneself after finishing work?",
+    "answerable": true,
+    "expected_answer": "Rewarding yourself with the time to watch an enjoyable movie.",
+    "page": 85,
+    "evidence_cite": "p.85"
+  },
+  {
+    "id": "adv_dev_23",
+    "split": "dev",
+    "primary_group": "Text",
+    "question": "What does specific mean in SMART goals?",
+    "answerable": true,
+    "expected_answer": "It must be defined enough to actually determine the goal, rather than too general.",
+    "page": 101,
+    "evidence_cite": "p.101"
+  },
+  {
+    "id": "adv_dev_24",
+    "split": "dev",
+    "primary_group": "Text",
+    "question": "What does measurable mean in SMART goals?",
+    "answerable": true,
+    "expected_answer": "Having clearly defined outcomes detailed enough to measure and plan.",
+    "page": 101,
+    "evidence_cite": "p.101"
+  },
+  {
+    "id": "adv_dev_25",
+    "split": "dev",
+    "primary_group": "Text",
+    "question": "Why is earning one million dollars by end of week not a SMART goal for students?",
+    "answerable": true,
+    "expected_answer": "It is not realistic within the given one-week timeframe.",
+    "page": 101,
+    "evidence_cite": "p.101"
+  },
+  {
+    "id": "adv_dev_26",
+    "split": "dev",
+    "primary_group": "Text",
+    "question": "In Section 3.1 student reflection, what peace of mind benefit did the student experience after improving time management?",
+    "answerable": true,
+    "expected_answer": "Peace of mind throughout the day and during tests.",
+    "page": 76,
+    "evidence_cite": "p.76"
+  },
+  {
+    "id": "adv_dev_27",
+    "split": "dev",
+    "primary_group": "Unanswerable",
+    "question": "What are the 5 phases of the SQ3R reading system in Chapter 2?",
+    "answerable": false,
+    "expected_answer": "Insufficient evidence in the textbook index.",
+    "page": 0,
+    "evidence_cite": "None"
+  },
+  {
+    "id": "adv_dev_28",
+    "split": "dev",
+    "primary_group": "Unanswerable",
+    "question": "What is the interest rate for Federal Direct Parent PLUS loans?",
+    "answerable": false,
+    "expected_answer": "Insufficient evidence in the textbook index.",
+    "page": 0,
+    "evidence_cite": "None"
+  },
+  {
+    "id": "adv_dev_29",
+    "split": "dev",
+    "primary_group": "Unanswerable",
+    "question": "What algorithm does Anki flashcard software use for spaced repetition?",
+    "answerable": false,
+    "expected_answer": "Insufficient evidence in the textbook index.",
+    "page": 0,
+    "evidence_cite": "None"
+  },
+  {
+    "id": "adv_dev_30",
+    "split": "dev",
+    "primary_group": "Unanswerable",
+    "question": "What is the campus clinic immunization schedule for Hepatitis B?",
+    "answerable": false,
+    "expected_answer": "Insufficient evidence in the textbook index.",
+    "page": 0,
+    "evidence_cite": "None"
+  },
+  {
+    "id": "adv_test_01",
+    "split": "test",
+    "primary_group": "Table",
+    "question": "According to Table 3.1, what are the estimated lost retirement earnings for one additional year of college?",
+    "answerable": true,
+    "expected_answer": "Lost retirement earnings are $82,074.",
+    "page": 78,
+    "evidence_cite": "Table 3.1 p.78"
+  },
+  {
+    "id": "adv_test_02",
+    "split": "test",
+    "primary_group": "Table",
+    "question": "According to Table 3.1, what source is credited for the additional college year cost estimates?",
+    "answerable": true,
+    "expected_answer": "Washington Post.",
+    "page": 78,
+    "evidence_cite": "Table 3.1 p.78"
+  },
+  {
+    "id": "adv_test_03",
+    "split": "test",
+    "primary_group": "Table",
+    "question": "In Table 3.6, why is 'I am going to start being more organized' not considered SMART?",
+    "answerable": true,
+    "expected_answer": "No, because there is nothing really measurable in this goal.",
+    "page": 102,
+    "evidence_cite": "Table 3.6 p.102"
+  },
+  {
+    "id": "adv_test_04",
+    "split": "test",
+    "primary_group": "Table",
+    "question": "In the Section 3.4 time estimation table, what was the estimated versus actual time for a Practice Quiz?",
+    "answerable": true,
+    "expected_answer": "Estimated 5 minutes, actual 15 minutes.",
+    "page": 88,
+    "evidence_cite": "Table p.88"
+  },
+  {
+    "id": "adv_test_05",
+    "split": "test",
+    "primary_group": "Table",
+    "question": "According to Table 1.1 college milestones, what happens during the middle of the semester?",
+    "answerable": true,
+    "expected_answer": "Midterm exams and project milestones.",
+    "page": 35,
+    "evidence_cite": "Table 1.4 p.35"
+  },
+  {
+    "id": "adv_test_06",
+    "split": "test",
+    "primary_group": "Table",
+    "question": "In Table 3.6, what GPA goal is provided as a measurable SMART goal?",
+    "answerable": true,
+    "expected_answer": "Earning at least a 3.0 GPA in all courses next semester.",
+    "page": 102,
+    "evidence_cite": "Table 3.6 p.102"
+  },
+  {
+    "id": "adv_test_07",
+    "split": "test",
+    "primary_group": "Image/Diagram",
+    "question": "According to Figure 3.16, who is the student depicted balancing coursework and family obligations?",
+    "answerable": true,
+    "expected_answer": "Sarah.",
+    "page": 110,
+    "evidence_cite": "Figure 3.16 p.110"
+  },
+  {
+    "id": "adv_test_08",
+    "split": "test",
+    "primary_group": "Image/Diagram",
+    "question": "According to Figure 3.2, what do successful college students set aside for studying?",
+    "answerable": true,
+    "expected_answer": "Specific times and specific places to study.",
+    "page": 79,
+    "evidence_cite": "Figure 3.2 p.79"
+  },
+  {
+    "id": "adv_test_09",
+    "split": "test",
+    "primary_group": "Image/Diagram",
+    "question": "In Figure 3.9 (Eisenhower Matrix), which quadrant should be done first?",
+    "answerable": true,
+    "expected_answer": "Important and Urgent.",
+    "page": 93,
+    "evidence_cite": "Figure 3.9 p.93"
+  },
+  {
+    "id": "adv_test_10",
+    "split": "test",
+    "primary_group": "Image/Diagram",
+    "question": "In Figure 3.9, which quadrant comes after 'important but not urgent'?",
+    "answerable": true,
+    "expected_answer": "Not important, but urgent.",
+    "page": 93,
+    "evidence_cite": "Figure 3.9 p.93"
+  },
+  {
+    "id": "adv_test_11",
+    "split": "test",
+    "primary_group": "Image/Diagram",
+    "question": "According to Figure 3.15, what kitchen timer shape inspired the Pomodoro technique?",
+    "answerable": true,
+    "expected_answer": "A tomato-shaped kitchen timer.",
+    "page": 105,
+    "evidence_cite": "Figure 3.15 p.105"
+  },
+  {
+    "id": "adv_test_12",
+    "split": "test",
+    "primary_group": "Chart",
+    "question": "According to Figure 1.3, what is the correlation between education level and lifetime earnings potential?",
+    "answerable": true,
+    "expected_answer": "Higher education levels correlate with higher potential lifetime earnings.",
+    "page": 22,
+    "evidence_cite": "Figure 1.3 p.22"
+  },
+  {
+    "id": "adv_test_13",
+    "split": "test",
+    "primary_group": "Chart",
+    "question": "In Figure 1.4, which scholars developed the Six Areas of Adjustment for college students?",
+    "answerable": true,
+    "expected_answer": "Laurie Hazard, Ed.D., and Stephanie Carter, M.A.",
+    "page": 25,
+    "evidence_cite": "Figure 1.4 p.25"
+  },
+  {
+    "id": "adv_test_14",
+    "split": "test",
+    "primary_group": "Chart",
+    "question": "In Figure 3.13, what purpose do the seven suggestions serve?",
+    "answerable": true,
+    "expected_answer": "Ways to stay motivated suggested from highly successful people.",
+    "page": 104,
+    "evidence_cite": "Figure 3.13 p.104"
+  },
+  {
+    "id": "adv_test_15",
+    "split": "test",
+    "primary_group": "Chart",
+    "question": "According to the financial chart Table 3.1, what is the combined total of lost wages and lost retirement earnings?",
+    "answerable": true,
+    "expected_answer": "Lost wages ($46,335) plus lost retirement earnings ($82,074) equal $128,409 (part of total $151,115).",
+    "page": 78,
+    "evidence_cite": "Table 3.1 p.78"
+  },
+  {
+    "id": "adv_test_16",
+    "split": "test",
+    "primary_group": "Chart",
+    "question": "According to Figure 1.3, does an Associate degree generally offer higher earnings than a High School Diploma?",
+    "answerable": true,
+    "expected_answer": "Yes, higher education levels show greater average earnings.",
+    "page": 22,
+    "evidence_cite": "Figure 1.3 p.22"
+  },
+  {
+    "id": "adv_test_17",
+    "split": "test",
+    "primary_group": "Multi-hop",
+    "question": "How does Sarah's Tuesday night routine in Section 3.7 relate to the time estimation principles in Section 3.4?",
+    "answerable": true,
+    "expected_answer": "Sarah's shopping without a list consumed unnecessary time, demonstrating how lack of pre-planning leads to time underestimation.",
+    "page": 88,
+    "evidence_cite": "p.88 & p.110"
+  },
+  {
+    "id": "adv_test_18",
+    "split": "test",
+    "primary_group": "Multi-hop",
+    "question": "Connecting Eisenhower's Matrix in Section 3.5 with the 'Eat the Frog' rule in Section 3.7, which tasks should be tackled first?",
+    "answerable": true,
+    "expected_answer": "Tasks in the Important and Urgent quadrant, or the single most unpleasant/critical task (the frog) should be done first thing in the morning.",
+    "page": 93,
+    "evidence_cite": "p.93 & p.106"
+  },
+  {
+    "id": "adv_test_19",
+    "split": "test",
+    "primary_group": "Multi-hop",
+    "question": "How does Rick's radio internship experience in the Chapter 3 Career Connection illustrate the milestone principles from Chapter 1?",
+    "answerable": true,
+    "expected_answer": "Rick's internship and subsequent producer position reflect the career milestone transition from academic preparation to workplace success.",
+    "page": 35,
+    "evidence_cite": "p.35 & p.112"
+  },
+  {
+    "id": "adv_test_20",
+    "split": "test",
+    "primary_group": "Multi-hop",
+    "question": "How do the short work intervals in the Pomodoro technique (Section 3.7) help overcome the Lack of Energy hurdle described in Section 3.3?",
+    "answerable": true,
+    "expected_answer": "Short 25-minute sprints followed by 5-minute breaks prevent mental fatigue and restore energy, directly counteracting energy depletion.",
+    "page": 84,
+    "evidence_cite": "p.84 & p.105"
+  },
+  {
+    "id": "adv_test_21",
+    "split": "test",
+    "primary_group": "Text",
+    "question": "What is the famous quote attributed to Mark Twain regarding time management?",
+    "answerable": true,
+    "expected_answer": "Eat a live frog first thing in the morning and nothing worse will happen to you the rest of the day.",
+    "page": 106,
+    "evidence_cite": "p.106"
+  },
+  {
+    "id": "adv_test_22",
+    "split": "test",
+    "primary_group": "Text",
+    "question": "In the Pomodoro technique, what break should be taken after completing four pomodoros?",
+    "answerable": true,
+    "expected_answer": "Take a longer break of 15 to 30 minutes and reset check marks.",
+    "page": 106,
+    "evidence_cite": "p.106"
+  },
+  {
+    "id": "adv_test_23",
+    "split": "test",
+    "primary_group": "Text",
+    "question": "What is prioritization conceptualized as in Section 3.5?",
+    "answerable": true,
+    "expected_answer": "Ordering tasks and allotting time for them based on identified needs or value.",
+    "page": 92,
+    "evidence_cite": "p.92"
+  },
+  {
+    "id": "adv_test_24",
+    "split": "test",
+    "primary_group": "Text",
+    "question": "What does time-bound mean in SMART goal framework?",
+    "answerable": true,
+    "expected_answer": "Having a specific completion deadline rather than an open-ended timeframe like 'sometime soon'.",
+    "page": 101,
+    "evidence_cite": "p.101"
+  },
+  {
+    "id": "adv_test_25",
+    "split": "test",
+    "primary_group": "Unanswerable",
+    "question": "What are the exact subprime auto loan delinquency rates mentioned in Chapter 1?",
+    "answerable": false,
+    "expected_answer": "Insufficient evidence in the textbook.",
+    "page": 0,
+    "evidence_cite": "None"
+  },
+  {
+    "id": "adv_test_26",
+    "split": "test",
+    "primary_group": "Unanswerable",
+    "question": "What is the formula for calculating Net Present Value in Chapter 2?",
+    "answerable": false,
+    "expected_answer": "Insufficient evidence in the textbook.",
+    "page": 0,
+    "evidence_cite": "None"
+  },
+  {
+    "id": "adv_test_27",
+    "split": "test",
+    "primary_group": "Unanswerable",
+    "question": "What is the step-by-step procedure for titration in the chemistry lab appendix?",
+    "answerable": false,
+    "expected_answer": "Insufficient evidence in the textbook.",
+    "page": 0,
+    "evidence_cite": "None"
+  },
+  {
+    "id": "adv_test_28",
+    "split": "test",
+    "primary_group": "Unanswerable",
+    "question": "What are the dormitory check-out penalty fees for the spring semester?",
+    "answerable": false,
+    "expected_answer": "Insufficient evidence in the textbook.",
+    "page": 0,
+    "evidence_cite": "None"
+  },
+  {
+    "id": "adv_test_29",
+    "split": "test",
+    "primary_group": "Unanswerable",
+    "question": "What is the minimum TOEFL iBT score required for international graduate admissions?",
+    "answerable": false,
+    "expected_answer": "Insufficient evidence in the textbook.",
+    "page": 0,
+    "evidence_cite": "None"
+  },
+  {
+    "id": "adv_test_30",
+    "split": "test",
+    "primary_group": "Unanswerable",
+    "question": "What are the five stages of grief described in the psychology module?",
+    "answerable": false,
+    "expected_answer": "Insufficient evidence in the textbook.",
+    "page": 0,
+    "evidence_cite": "None"
+  }
+]

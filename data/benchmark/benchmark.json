@@ -1,0 +1,611 @@
+[
+  {
+    "id": "dev_01",
+    "split": "dev",
+    "question": "According to the Washington Post estimates in Table 3.1, what is the estimated average total loss for an additional year of college?",
+    "answerable": true,
+    "answer": "The average total loss is $151,115 (including $46,335 in lost wages and $82,074 in lost retirement earnings).",
+    "evidence": [
+      {
+        "chunk_id": "B_chunk_0016",
+        "quote": "Average total loss: $151,115",
+        "pdf_page": 78,
+        "section": "3.2 Time Management in College"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "dev_02",
+    "split": "dev",
+    "question": "What role did Dwight Eisenhower serve before becoming the 34th president of the United States, during which he used his prioritization technique?",
+    "answerable": true,
+    "answer": "Dwight Eisenhower served as the Allied forces supreme commander during World War II.",
+    "evidence": [
+      {
+        "chunk_id": "B_chunk_0082",
+        "quote": "Dwight Eisenhower served as the Allied forces supreme commander during World War II and said he used this technique to better prioritize",
+        "pdf_page": 93,
+        "section": "3.5 Prioritization: Self-Management of What You Do and When You Do It"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "dev_03",
+    "split": "dev",
+    "question": "In the Eisenhower Matrix, which tasks should be finished first?",
+    "answerable": true,
+    "answer": "Tasks listed in the Important and Urgent square need to be finished first.",
+    "evidence": [
+      {
+        "chunk_id": "B_chunk_0083",
+        "quote": "those listed in the Important and Urgent square will be the things you need to finish first",
+        "pdf_page": 93,
+        "section": "3.5 Prioritization: Self-Management of What You Do and When You Do It"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "dev_04",
+    "split": "dev",
+    "question": "How long are pomodoro intervals in the original technique, and why are they named pomodoros?",
+    "answerable": true,
+    "answer": "The intervals are usually about 25 minutes long and are called pomodoros from the Italian word for tomato, because Francesco Cirillo used a tomato-shaped kitchen timer.",
+    "evidence": [
+      {
+        "chunk_id": "B_chunk_0134",
+        "quote": "The intervals are usually about 25 minutes long and are called pomodoros, which comes from the Italian word for tomato because Cirillo used a tomato-shaped kitchen timer",
+        "pdf_page": 105,
+        "section": "3.7 Enhanced Strategies for Time and Task Management"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "dev_05",
+    "split": "dev",
+    "question": "According to the Pomodoro Technique, what breaks should you take after working on tasks?",
+    "answerable": true,
+    "answer": "If you have fewer than four check marks, take a short break (3\u20135 minutes); after four pomodoros, take a longer break (15\u201330 minutes) and reset your check marks.",
+    "evidence": [
+      {
+        "chunk_id": "B_chunk_0135",
+        "quote": "If you have fewer than four check marks, take a short break (3\u20135 minutes), then go to Step 1 or 2 (whichever is appropriate). 6. After four pomodoros, take a longer break (15\u201330 minutes), reset your check mark count to zero",
+        "pdf_page": 106,
+        "section": "3.7 Enhanced Strategies for Time and Task Management"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "dev_06",
+    "split": "dev",
+    "question": "What famous quote is the name 'Eat the Frog' attributed to, and who wrote the best-selling book with that title?",
+    "answerable": true,
+    "answer": "It is attributed to Mark Twain ('Eat a live frog first thing in the morning and nothing worse will happen to you the rest of the day'), and Brian Tracy wrote the best-selling book titled Eat the Frog.",
+    "evidence": [
+      {
+        "chunk_id": "B_chunk_0137",
+        "quote": "The name comes from a famous quote, attributed to Mark Twain: \u201cEat a live frog first thing in the morning and nothing worse will happen to you the rest of the day.\u201d Eat the Frog is also the title of a best- selling book by Brian Tracy",
+        "pdf_page": 106,
+        "section": "3.7 Enhanced Strategies for Time and Task Management"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "dev_07",
+    "split": "dev",
+    "question": "What does it mean for a goal to be 'Specific' in the SMART goal framework?",
+    "answerable": true,
+    "answer": "For a goal to be specific, it must be defined enough to actually determine the goal, rather than too general (like 'get a good job when I graduate').",
+    "evidence": [
+      {
+        "chunk_id": "B_chunk_0121",
+        "quote": "Specific\u2014For a goal to be specific, it must be defined enough to actually determine the goal. A goal of get a good job when I graduate is too general.",
+        "pdf_page": 101,
+        "section": "3.6 Goal Setting and Motivation"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "dev_08",
+    "split": "dev",
+    "question": "In SMART goal setting, what makes a goal 'Measurable'?",
+    "answerable": true,
+    "answer": "A measurable goal has clearly defined outcomes that are detailed enough to measure and can be used for planning, such as graduating with a GPA above 3.0 rather than just 'doing well in school'.",
+    "evidence": [
+      {
+        "chunk_id": "B_chunk_0122",
+        "quote": "the goal should have clearly defined outcomes that are detailed enough to measure and can be used for planning of how you will achieve the goal. For example, setting a goal of doing well in school is a bit undefined, but making a goal of graduating with a GPA above 3.0 is measurable",
+        "pdf_page": 101,
+        "section": "3.6 Goal Setting and Motivation"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "dev_09",
+    "split": "dev",
+    "question": "Why is a goal like 'make an extra one million dollars by the end of the week' not considered an achievable or realistic SMART goal for a student?",
+    "answerable": true,
+    "answer": "Because the odds that you could make that happen in a single week are not very realistic, and goals should be reasonable and achievable within the timeframe.",
+    "evidence": [
+      {
+        "chunk_id": "B_chunk_0123",
+        "quote": "While a goal of make an extra one million dollars by the end of the week is something that would be nice to achieve, the odds that you could make that happen in a single week are not very realistic.",
+        "pdf_page": 101,
+        "section": "3.6 Goal Setting and Motivation"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "dev_010",
+    "split": "dev",
+    "question": "How does the text explain 'Fear of Failure' as a psychological cause of procrastination?",
+    "answerable": true,
+    "answer": "It is a psychological trick where a person delays or avoids a task so that if they fail, they can rationalize that they failed because they ran out of time rather than lacking ability.",
+    "evidence": [
+      {
+        "chunk_id": "B_chunk_0039",
+        "quote": "In the person\u2019s mind, they can rationalize that the reason they failed at the task was because they ran out of time to complete it, not that they were incapable of doing it in the first place.",
+        "pdf_page": 84,
+        "section": "3.3 Procrastination: The Enemy Within"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "dev_011",
+    "split": "dev",
+    "question": "Give an example provided in the text of using a reward to avoid procrastination.",
+    "answerable": true,
+    "answer": "An example is rewarding yourself with the time to watch a movie you enjoy after finishing your tasks, rather than watching the movie beforehand to keep putting off work.",
+    "evidence": [
+      {
+        "chunk_id": "B_chunk_0046",
+        "quote": "An example of this would be rewarding yourself with the time to watch a movie you would enjoy after you have finished the things you need to do, rather than using the movie to keep yourself from getting things done.",
+        "pdf_page": 85,
+        "section": "3.4 How to Manage Time"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "dev_012",
+    "split": "dev",
+    "question": "In the Chapter 3 Career Connection, what position was Rick offered after graduation?",
+    "answerable": true,
+    "answer": "Rick was offered a position as the producer of the morning show at a local Top 40 radio station.",
+    "evidence": [
+      {
+        "chunk_id": "B_chunk_0159",
+        "quote": "after graduation, was offered a position as the producer of the station\u2019s morning show",
+        "pdf_page": 112,
+        "section": "Summary"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "dev_013",
+    "split": "dev",
+    "question": "In Section 3.7 case study, what was included in Sarah's Tuesday-night routine?",
+    "answerable": true,
+    "answer": "Sarah's Tuesday-night routine included coming home from work, taking stock of grocery items needed, driving to the store, and selecting groceries without a pre-made list.",
+    "evidence": [
+      {
+        "chunk_id": "B_chunk_0154",
+        "quote": "Sarah\u2019s Tuesday-night routine includes coming home from work, taking stock of which items in her home she might need to purchase, and then driving to the store.",
+        "pdf_page": 110,
+        "section": "3.7 Enhanced Strategies for Time and Task Management"
+      }
+    ],
+    "filter": {
+      "section": "3.7 Enhanced Strategies for Time and Task Management"
+    }
+  },
+  {
+    "id": "dev_014",
+    "split": "dev",
+    "question": "According to Section 3.3, what are potential causes of a lack of energy when facing a task?",
+    "answerable": true,
+    "answer": "A lack of energy might be due to discomfort, illness, lack of sleep, or improper diet.",
+    "evidence": [
+      {
+        "chunk_id": "B_chunk_0036",
+        "quote": "It might be due to discomfort, an illness, or just a lack of energy.",
+        "pdf_page": 83,
+        "section": "3.3 Procrastination: The Enemy Within"
+      },
+      {
+        "chunk_id": "B_chunk_0037",
+        "quote": "as simple as a lack of sleep or improper diet.",
+        "pdf_page": 84,
+        "section": "3.3 Procrastination: The Enemy Within"
+      }
+    ],
+    "filter": {
+      "section": "3.3 Procrastination: The Enemy Within"
+    }
+  },
+  {
+    "id": "dev_015",
+    "split": "dev",
+    "question": "According to Table 3.1, what is the exact amount estimated for lost wages during an additional year of college?",
+    "answerable": true,
+    "answer": "The estimated lost wages amount to $46,335.",
+    "evidence": [
+      {
+        "chunk_id": "B_chunk_0016",
+        "quote": "Lost wages $46,335",
+        "pdf_page": 78,
+        "section": "3.2 Time Management in College"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "dev_016",
+    "split": "dev",
+    "question": "What is the estimated loss in retirement earnings resulting from an additional year in college according to Table 3.1?",
+    "answerable": true,
+    "answer": "The estimated loss in retirement earnings is $82,074.",
+    "evidence": [
+      {
+        "chunk_id": "B_chunk_0016",
+        "quote": "Lost retirement earnings $82,074",
+        "pdf_page": 78,
+        "section": "3.2 Time Management in College"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "dev_017",
+    "split": "dev",
+    "question": "What is the main concept of the 'Eat the Frog' time management method?",
+    "answerable": true,
+    "answer": "The concept is to do your most difficult or dreaded task ('the frog') first thing in the day so it is out of the way and doesn't create lingering anxiety.",
+    "evidence": [
+      {
+        "chunk_id": "B_chunk_0137",
+        "quote": "concept that if a person takes care of the biggest or most unpleasant task first, everything else will be easier after that.",
+        "pdf_page": 106,
+        "section": "3.7 Enhanced Strategies for Time and Task Management"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "dev_018",
+    "split": "dev",
+    "question": "How is prioritization defined or conceptualized in Section 3.5?",
+    "answerable": true,
+    "answer": "Prioritization can be thought of as ordering tasks and allotting time for them based on their identified needs or value.",
+    "evidence": [
+      {
+        "chunk_id": "B_chunk_0077",
+        "quote": "Prioritization can be thought of as ordering tasks and allotting time for them based on their identified needs or value.",
+        "pdf_page": 92,
+        "section": "3.5 Prioritization: Self-Management of What You Do and When You Do It"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "dev_019",
+    "split": "dev",
+    "question": "According to Figure 3.11 in Section 3.5, why is allowing time to think important?",
+    "answerable": true,
+    "answer": "Allowing time to think is an important part of learning and academic work.",
+    "evidence": [
+      {
+        "chunk_id": "B_chunk_0098",
+        "quote": "Allowing time to think is an important part of learning.",
+        "pdf_page": 96,
+        "section": "3.5 Prioritization: Self-Management of What You Do and When You Do It"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "dev_020",
+    "split": "dev",
+    "question": "In the SMART goal examples in Table 3.6, why is 'I will earn at least a 3.0 GPA in all my courses next semester' considered SMART?",
+    "answerable": true,
+    "answer": "Because it meets all SMART attributes: specific, measurable (GPA >= 3.0), achievable, relevant to college, and time-bound (next semester).",
+    "evidence": [
+      {
+        "chunk_id": "B_chunk_0126",
+        "quote": "I will earn at least a 3.0 GPA in all my courses next semester. Yes All of the SMART attributes are present in this goal.",
+        "pdf_page": 102,
+        "section": "3.6 Goal Setting and Motivation"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "dev_021",
+    "split": "dev",
+    "question": "According to Figure 3.1 in the chapter introduction, what dual role do electronic devices play in time management?",
+    "answerable": true,
+    "answer": "Devices can be helpful tools for managing time, but they can also lead to distraction.",
+    "evidence": [
+      {
+        "chunk_id": "B_chunk_0001",
+        "quote": "Our devices can be helpful tools for managing time, but they can also lead to distraction.",
+        "pdf_page": 75,
+        "section": "Introduction"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "dev_022",
+    "split": "dev",
+    "question": "What does the text say about the reality of multitasking when managing priorities?",
+    "answerable": true,
+    "answer": "Multitasking often leads to tasks taking twice as long and reduced quality, as switching between tasks creates friction and loss of focus.",
+    "evidence": [
+      {
+        "chunk_id": "B_chunk_0101",
+        "quote": "Unfortunately, that part of the project will now take twice as long",
+        "pdf_page": 97,
+        "section": "3.5 Prioritization: Self-Management of What You Do and When You Do It"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "dev_023",
+    "split": "dev",
+    "question": "Why does the text advise against studying while lying back on a comfortable couch or bed?",
+    "answerable": true,
+    "answer": "Because lying back on a couch or bed can lead to sleepiness or reduced focus, making a dedicated, alert workspace more productive.",
+    "evidence": [
+      {
+        "chunk_id": "B_chunk_0108",
+        "quote": "While it might seem more comfortable to lie back on a couch or sink into an easy chair to study, many people find that a desk or table helps them stay focused and alert.",
+        "pdf_page": 98,
+        "section": "3.5 Prioritization: Self-Management of What You Do and When You Do It"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "dev_024",
+    "split": "dev",
+    "question": "In the Section 3.4 estimation activity, what was the estimated time versus actual time for a Practice Quiz?",
+    "answerable": true,
+    "answer": "The estimated time was 5 minutes, while the actual time taken was 15 minutes.",
+    "evidence": [
+      {
+        "chunk_id": "B_chunk_0056",
+        "quote": "Practice Quiz 5 minutes 15 minutes",
+        "pdf_page": 88,
+        "section": "3.4 How to Manage Time"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "dev_025",
+    "split": "dev",
+    "question": "In Section 3.1 student reflection, what was the most important benefit the student gained after improving time management?",
+    "answerable": true,
+    "answer": "The student had peace of mind throughout the day and during tests, avoiding constant anxiety.",
+    "evidence": [
+      {
+        "chunk_id": "B_chunk_0006",
+        "quote": "Most importantly, I now had peace of mind throughout the day and during the tests themselves",
+        "pdf_page": 76,
+        "section": "3.1 The Benefits of Time Management"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "dev_026",
+    "split": "dev",
+    "question": "What are the specific five steps of the Cornell Note-Taking System described in Chapter 3?",
+    "answerable": false,
+    "answer": "I cannot find sufficient evidence in Chapter 3 to answer this question. The text focuses on time management and priorities, not Cornell note-taking.",
+    "evidence": [],
+    "filter": null
+  },
+  {
+    "id": "dev_027",
+    "split": "dev",
+    "question": "What is the exact federal deadline for submitting the FAFSA financial aid application mentioned in the text?",
+    "answerable": false,
+    "answer": "I cannot find sufficient evidence in Chapter 3 to answer this question. The text discusses college costs but does not mention federal FAFSA deadlines.",
+    "evidence": [],
+    "filter": null
+  },
+  {
+    "id": "dev_028",
+    "split": "dev",
+    "question": "What is the university's exact refund percentage if a student drops a course after week 3?",
+    "answerable": false,
+    "answer": "I cannot find sufficient evidence in Chapter 3 to answer this question. The text mentions the danger of dropping out, but does not provide specific course drop refund schedules.",
+    "evidence": [],
+    "filter": null
+  },
+  {
+    "id": "dev_029",
+    "split": "dev",
+    "question": "Which spaced repetition algorithm does Chapter 3 recommend for Anki flashcard scheduling?",
+    "answerable": false,
+    "answer": "I cannot find sufficient evidence in Chapter 3 to answer this question. Spaced repetition software like Anki is not covered in Chapter 3.",
+    "evidence": [],
+    "filter": null
+  },
+  {
+    "id": "dev_030",
+    "split": "dev",
+    "question": "What mandatory vaccinations must incoming college freshmen submit to the campus health center before moving into dorms?",
+    "answerable": false,
+    "answer": "I cannot find sufficient evidence in Chapter 3 to answer this question. Dorm vaccination policies are outside the scope of Chapter 3.",
+    "evidence": [],
+    "filter": null
+  },
+  {
+    "id": "test_01",
+    "split": "test",
+    "question": "In the Eisenhower Matrix, which tasks come after 'important but not urgent'?",
+    "answerable": true,
+    "answer": "Tasks that are 'not important, but urgent', followed by 'not urgent and not important'.",
+    "evidence": [
+      {
+        "chunk_id": "B_chunk_0083",
+        "quote": "After that will come things that are \u201cimportant but not urgent,\u201d followed by \u201cnot important, but urgent,\u201d and finally \u201cnot urgent and not important.\u201d",
+        "pdf_page": 93,
+        "section": "3.5 Prioritization: Self-Management of What You Do and When You Do It"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "test_02",
+    "split": "test",
+    "question": "Who invented the Pomodoro Technique, and what tool did he use?",
+    "answerable": true,
+    "answer": "Francesco Cirillo invented the technique using a tomato-shaped kitchen timer.",
+    "evidence": [
+      {
+        "chunk_id": "B_chunk_0134",
+        "quote": "Cirillo used a tomato-shaped kitchen timer",
+        "pdf_page": 105,
+        "section": "3.7 Enhanced Strategies for Time and Task Management"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "test_03",
+    "split": "test",
+    "question": "What does 'Time-bound' or 'Timely' mean in SMART goal setting?",
+    "answerable": true,
+    "answer": "It means the goal has a specific time frame or deadline for completion, rather than an open-ended statement like 'sometime soon'.",
+    "evidence": [
+      {
+        "chunk_id": "B_chunk_0124",
+        "quote": "I will get my paper written sometime soon does not help you plan how and when you will accomplish the goal. Setting a goal of I will finish my paper by Friday at 5:00 p.m. gives you a specific time",
+        "pdf_page": 101,
+        "section": "3.6 Goal Setting and Motivation"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "test_04",
+    "split": "test",
+    "question": "Who is the author of the best-selling book titled 'Eat the Frog' referenced in Section 3.7?",
+    "answerable": true,
+    "answer": "Brian Tracy.",
+    "evidence": [
+      {
+        "chunk_id": "B_chunk_0137",
+        "quote": "Eat the Frog is also the title of a best- selling book by Brian Tracy that deals with time management and avoiding procrastination.",
+        "pdf_page": 106,
+        "section": "3.7 Enhanced Strategies for Time and Task Management"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "test_05",
+    "split": "test",
+    "question": "In Section 3.6, what specific example is given of turning an undefined goal of 'doing well in school' into a measurable goal?",
+    "answerable": true,
+    "answer": "Making a goal of graduating with a GPA above 3.0.",
+    "evidence": [
+      {
+        "chunk_id": "B_chunk_0122",
+        "quote": "graduating with a GPA above 3.0 is measurable",
+        "pdf_page": 101,
+        "section": "3.6 Goal Setting and Motivation"
+      }
+    ],
+    "filter": {
+      "section": "3.6 Goal Setting and Motivation"
+    }
+  },
+  {
+    "id": "test_06",
+    "split": "test",
+    "question": "What source or newspaper is credited for the data on the average cost of an additional year of college in Table 3.1?",
+    "answerable": true,
+    "answer": "The Washington Post.",
+    "evidence": [
+      {
+        "chunk_id": "B_chunk_0016",
+        "quote": "Table 3.1 Credit: Washington Post.",
+        "pdf_page": 78,
+        "section": "3.2 Time Management in College"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "test_07",
+    "split": "test",
+    "question": "According to Section 3.3, what are some of the psychological and physical hurdles that lead to procrastination?",
+    "answerable": true,
+    "answer": "Lack of energy, illness/discomfort, fear of failure, and lack of clear goals.",
+    "evidence": [
+      {
+        "chunk_id": "B_chunk_0035",
+        "quote": "To succeed at time management, you must understand some of the hurdles that may stand in your way.",
+        "pdf_page": 83,
+        "section": "3.3 Procrastination: The Enemy Within"
+      },
+      {
+        "chunk_id": "B_chunk_0036",
+        "quote": "Lack of Energy Sometimes we just do not feel up to a certain task.",
+        "pdf_page": 83,
+        "section": "3.3 Procrastination: The Enemy Within"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "test_08",
+    "split": "test",
+    "question": "Where did Rick intern during his college semester before landing his morning show producer job?",
+    "answerable": true,
+    "answer": "He interned for a semester at a local Top 40 radio station.",
+    "evidence": [
+      {
+        "chunk_id": "B_chunk_0159",
+        "quote": "I interned for a semester at a local Top 40 station and, after graduation, was offered a position as the producer of the station\u2019s morning show",
+        "pdf_page": 112,
+        "section": "Summary"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "test_09",
+    "split": "test",
+    "question": "What is the average federal Direct Subsidized student loan fixed interest rate specified in Chapter 3?",
+    "answerable": false,
+    "answer": "I cannot find sufficient evidence in Chapter 3 to answer this question. The chapter does not mention specific student loan interest rates.",
+    "evidence": [],
+    "filter": null
+  },
+  {
+    "id": "test_010",
+    "split": "test",
+    "question": "What are the five phases of the SQ3R textbook reading method described in Chapter 3?",
+    "answerable": false,
+    "answer": "I cannot find sufficient evidence in Chapter 3 to answer this question. SQ3R reading method is covered in reading chapters, not in Chapter 3 on time management.",
+    "evidence": [],
+    "filter": null
+  }
+]

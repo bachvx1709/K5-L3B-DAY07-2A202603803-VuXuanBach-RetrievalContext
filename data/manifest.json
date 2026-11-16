@@ -1,0 +1,329 @@
+{
+  "corpus_id": "openstax-college-success-ch3",
+  "source_id": "college-success-ch3",
+  "title": "College Success - Chapter 3: Managing Your Time and Priorities",
+  "authors": [
+    "Amy Baldwin",
+    "OpenStax"
+  ],
+  "source_path": "data/college-success_-_WEB.pdf",
+  "source_url": "https://openstax.org/details/books/college-success",
+  "license_or_permission": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "accessed_at": "2026-11-14",
+  "scope_description": "Chapter 3: Managing Your Time and Priorities (PDF pages 75 to 112, book print pages 65 to 102)",
+  "page_selection_rule": "Selected 38 consecutive pages covering the entire Chapter 3, including introduction, sections 3.1 to 3.7, and summary. All pages contain substantive content and learning exercises.",
+  "total_selected_pages": 38,
+  "total_character_count": 93205,
+  "average_characters_per_page": 2452.8,
+  "filter_fields": [
+    "chapter",
+    "section",
+    "topic"
+  ],
+  "pages": [
+    {
+      "page_id": "p_75",
+      "pdf_page": 75,
+      "print_page": 65,
+      "section": "Introduction",
+      "topic": "Overview of Time Management",
+      "char_count": 1488
+    },
+    {
+      "page_id": "p_76",
+      "pdf_page": 76,
+      "print_page": 66,
+      "section": "3.1 The Benefits of Time Management",
+      "topic": "Benefits & Impact",
+      "char_count": 3626
+    },
+    {
+      "page_id": "p_77",
+      "pdf_page": 77,
+      "print_page": 67,
+      "section": "3.1 The Benefits of Time Management",
+      "topic": "Benefits & Impact",
+      "char_count": 3831
+    },
+    {
+      "page_id": "p_78",
+      "pdf_page": 78,
+      "print_page": 68,
+      "section": "3.2 Time Management in College",
+      "topic": "College Environment & Differences",
+      "char_count": 2452
+    },
+    {
+      "page_id": "p_79",
+      "pdf_page": 79,
+      "print_page": 69,
+      "section": "3.2 Time Management in College",
+      "topic": "College Environment & Differences",
+      "char_count": 1724
+    },
+    {
+      "page_id": "p_80",
+      "pdf_page": 80,
+      "print_page": 70,
+      "section": "3.2 Time Management in College",
+      "topic": "College Environment & Differences",
+      "char_count": 1044
+    },
+    {
+      "page_id": "p_81",
+      "pdf_page": 81,
+      "print_page": 71,
+      "section": "3.2 Time Management in College",
+      "topic": "College Environment & Differences",
+      "char_count": 2603
+    },
+    {
+      "page_id": "p_82",
+      "pdf_page": 82,
+      "print_page": 72,
+      "section": "3.2 Time Management in College",
+      "topic": "College Environment & Differences",
+      "char_count": 1727
+    },
+    {
+      "page_id": "p_83",
+      "pdf_page": 83,
+      "print_page": 73,
+      "section": "3.3 Procrastination: The Enemy Within",
+      "topic": "Procrastination Causes & Solutions",
+      "char_count": 2218
+    },
+    {
+      "page_id": "p_84",
+      "pdf_page": 84,
+      "print_page": 74,
+      "section": "3.3 Procrastination: The Enemy Within",
+      "topic": "Procrastination Causes & Solutions",
+      "char_count": 3352
+    },
+    {
+      "page_id": "p_85",
+      "pdf_page": 85,
+      "print_page": 75,
+      "section": "3.4 How to Manage Time",
+      "topic": "Daily Scheduling & Routine",
+      "char_count": 3123
+    },
+    {
+      "page_id": "p_86",
+      "pdf_page": 86,
+      "print_page": 76,
+      "section": "3.4 How to Manage Time",
+      "topic": "Daily Scheduling & Routine",
+      "char_count": 929
+    },
+    {
+      "page_id": "p_87",
+      "pdf_page": 87,
+      "print_page": 77,
+      "section": "3.4 How to Manage Time",
+      "topic": "Daily Scheduling & Routine",
+      "char_count": 2940
+    },
+    {
+      "page_id": "p_88",
+      "pdf_page": 88,
+      "print_page": 78,
+      "section": "3.4 How to Manage Time",
+      "topic": "Daily Scheduling & Routine",
+      "char_count": 2717
+    },
+    {
+      "page_id": "p_89",
+      "pdf_page": 89,
+      "print_page": 79,
+      "section": "3.4 How to Manage Time",
+      "topic": "Daily Scheduling & Routine",
+      "char_count": 3390
+    },
+    {
+      "page_id": "p_90",
+      "pdf_page": 90,
+      "print_page": 80,
+      "section": "3.4 How to Manage Time",
+      "topic": "Daily Scheduling & Routine",
+      "char_count": 3035
+    },
+    {
+      "page_id": "p_91",
+      "pdf_page": 91,
+      "print_page": 81,
+      "section": "3.4 How to Manage Time",
+      "topic": "Daily Scheduling & Routine",
+      "char_count": 2180
+    },
+    {
+      "page_id": "p_92",
+      "pdf_page": 92,
+      "print_page": 82,
+      "section": "3.5 Prioritization: Self-Management of What You Do and When You Do It",
+      "topic": "Prioritization Frameworks & Matrix",
+      "char_count": 2146
+    },
+    {
+      "page_id": "p_93",
+      "pdf_page": 93,
+      "print_page": 83,
+      "section": "3.5 Prioritization: Self-Management of What You Do and When You Do It",
+      "topic": "Prioritization Frameworks & Matrix",
+      "char_count": 2860
+    },
+    {
+      "page_id": "p_94",
+      "pdf_page": 94,
+      "print_page": 84,
+      "section": "3.5 Prioritization: Self-Management of What You Do and When You Do It",
+      "topic": "Prioritization Frameworks & Matrix",
+      "char_count": 4132
+    },
+    {
+      "page_id": "p_95",
+      "pdf_page": 95,
+      "print_page": 85,
+      "section": "3.5 Prioritization: Self-Management of What You Do and When You Do It",
+      "topic": "Prioritization Frameworks & Matrix",
+      "char_count": 1653
+    },
+    {
+      "page_id": "p_96",
+      "pdf_page": 96,
+      "print_page": 86,
+      "section": "3.5 Prioritization: Self-Management of What You Do and When You Do It",
+      "topic": "Prioritization Frameworks & Matrix",
+      "char_count": 2906
+    },
+    {
+      "page_id": "p_97",
+      "pdf_page": 97,
+      "print_page": 87,
+      "section": "3.5 Prioritization: Self-Management of What You Do and When You Do It",
+      "topic": "Prioritization Frameworks & Matrix",
+      "char_count": 3636
+    },
+    {
+      "page_id": "p_98",
+      "pdf_page": 98,
+      "print_page": 88,
+      "section": "3.5 Prioritization: Self-Management of What You Do and When You Do It",
+      "topic": "Prioritization Frameworks & Matrix",
+      "char_count": 2643
+    },
+    {
+      "page_id": "p_99",
+      "pdf_page": 99,
+      "print_page": 89,
+      "section": "3.5 Prioritization: Self-Management of What You Do and When You Do It",
+      "topic": "Prioritization Frameworks & Matrix",
+      "char_count": 3735
+    },
+    {
+      "page_id": "p_100",
+      "pdf_page": 100,
+      "print_page": 90,
+      "section": "3.6 Goal Setting and Motivation",
+      "topic": "SMART Goals & Motivation",
+      "char_count": 3335
+    },
+    {
+      "page_id": "p_101",
+      "pdf_page": 101,
+      "print_page": 91,
+      "section": "3.6 Goal Setting and Motivation",
+      "topic": "SMART Goals & Motivation",
+      "char_count": 3012
+    },
+    {
+      "page_id": "p_102",
+      "pdf_page": 102,
+      "print_page": 92,
+      "section": "3.6 Goal Setting and Motivation",
+      "topic": "SMART Goals & Motivation",
+      "char_count": 1852
+    },
+    {
+      "page_id": "p_103",
+      "pdf_page": 103,
+      "print_page": 93,
+      "section": "3.6 Goal Setting and Motivation",
+      "topic": "SMART Goals & Motivation",
+      "char_count": 853
+    },
+    {
+      "page_id": "p_104",
+      "pdf_page": 104,
+      "print_page": 94,
+      "section": "3.7 Enhanced Strategies for Time and Task Management",
+      "topic": "Pomodoro & Advanced Productivity Tactics",
+      "char_count": 377
+    },
+    {
+      "page_id": "p_105",
+      "pdf_page": 105,
+      "print_page": 95,
+      "section": "3.7 Enhanced Strategies for Time and Task Management",
+      "topic": "Pomodoro & Advanced Productivity Tactics",
+      "char_count": 2286
+    },
+    {
+      "page_id": "p_106",
+      "pdf_page": 106,
+      "print_page": 96,
+      "section": "3.7 Enhanced Strategies for Time and Task Management",
+      "topic": "Pomodoro & Advanced Productivity Tactics",
+      "char_count": 2141
+    },
+    {
+      "page_id": "p_107",
+      "pdf_page": 107,
+      "print_page": 97,
+      "section": "3.7 Enhanced Strategies for Time and Task Management",
+      "topic": "Pomodoro & Advanced Productivity Tactics",
+      "char_count": 2609
+    },
+    {
+      "page_id": "p_108",
+      "pdf_page": 108,
+      "print_page": 98,
+      "section": "3.7 Enhanced Strategies for Time and Task Management",
+      "topic": "Pomodoro & Advanced Productivity Tactics",
+      "char_count": 1716
+    },
+    {
+      "page_id": "p_109",
+      "pdf_page": 109,
+      "print_page": 99,
+      "section": "3.7 Enhanced Strategies for Time and Task Management",
+      "topic": "Pomodoro & Advanced Productivity Tactics",
+      "char_count": 3691
+    },
+    {
+      "page_id": "p_110",
+      "pdf_page": 110,
+      "print_page": 100,
+      "section": "3.7 Enhanced Strategies for Time and Task Management",
+      "topic": "Pomodoro & Advanced Productivity Tactics",
+      "char_count": 2330
+    },
+    {
+      "page_id": "p_111",
+      "pdf_page": 111,
+      "print_page": 101,
+      "section": "3.7 Enhanced Strategies for Time and Task Management",
+      "topic": "Pomodoro & Advanced Productivity Tactics",
+      "char_count": 180
+    },
+    {
+      "page_id": "p_112",
+      "pdf_page": 112,
+      "print_page": 102,
+      "section": "Summary",
+      "topic": "Chapter Review",
+      "char_count": 2733
+    }
+  ]
+}
